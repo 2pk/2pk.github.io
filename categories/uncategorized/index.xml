@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Beta Thoughts</title>
+    <link>https://2pk.github.io/categories/uncategorized/index.xml</link>
+    <description>Recent content on Beta Thoughts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://2pk.github.io/categories/uncategorized/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Making of the wordpress empire</title>
+      <link>https://2pk.github.io/2015/11/making-of-the-wordpress-empire/</link>
+      <pubDate>Tue, 24 Nov 2015 06:36:22 +0000</pubDate>
+      
+      <guid>https://2pk.github.io/2015/11/making-of-the-wordpress-empire/</guid>
+      <description>&lt;p&gt;It is interesting to see the new architecture of wordpress. WordPress.com and self-hosted wordpress is all REST enabled now. There is a new desktop client. You can even manage your self hosted blogs from wordpress.com. They even use the new js flavor of the times &amp;#8211; react ( I love react as well). From techie perspective it is quite nice.&lt;/p&gt;
+
+&lt;p&gt;What I would hate to see is that now that I am lured into logging into wordpress.com As a self-hosted blog for 10-11 years I have never had the need to login to wordpress.com. So now all self-hosted blogs dial home. This is quite good from commercial perspectives wherein Automattic would get the chance to see and maybe interact in auto-matt-ic way. If that happens I hope it would be quite non-intrusive.&lt;/p&gt;
+
+&lt;p&gt;Ok that was a good test post from the new wordpress.com mac client.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Is it really Bubble 2 dot 0</title>
+      <link>https://2pk.github.io/2015/09/is-it-really-bubble-2-dot-0/</link>
+      <pubDate>Tue, 08 Sep 2015 06:01:42 +0000</pubDate>
+      
+      <guid>https://2pk.github.io/2015/09/is-it-really-bubble-2-dot-0/</guid>
+      <description>&lt;p&gt;Lately there has been a lot of chatter about bubble in Silicon Valley. This &lt;a href=&#34;http://www.vanityfair.com/news/2015/08/is-silicon-valley-in-another-bubble&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://www.vanityfair.com/news/2015/08/is-silicon-valley-in-another-bubble&#39;, &#39;article&#39;]);&#34; &gt;article&lt;/a&gt; by Nick Bilton in vanity fair is the latest in that chatter. No doubt there is a preponderance of getting oneself in The Unicorn Club. The burn rates among startups are high. @pmarca raised the &lt;a href=&#34;https://twitter.com/pmarca/status/515216011277398016&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;https://twitter.com/pmarca/status/515216011277398016&#39;, &#39;cash burn concern &#39;]);&#34; &gt;cash burn concern &lt;/a&gt;an year ago but has been &lt;a href=&#34;https://twitter.com/pmarca/status/636307488720027648&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;https://twitter.com/pmarca/status/636307488720027648&#39;, &#39;mocking end of world&#39;]);&#34; &gt;mocking end of world&lt;/a&gt; on all the recent dips. Even the fine folks at Hacker News are discussing &lt;a href=&#34;https://news.ycombinator.com/item?id=9712868&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;https://news.ycombinator.com/item?id=9712868&#39;, &#39;this&#39;]);&#34; &gt;this&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;May be it is. Having lived thru the .com bust my observations in favor and against are&lt;/p&gt;
+
+&lt;p&gt;In favor&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Have you seen the traffic during commute hours. I used to do Fremont &amp;#8211; Mountain View during 99-01 and even with the old 237-880 crossover it wasn&amp;#8217;t so bad. Now a days it is a constant zoo from 7am-10am.&lt;/li&gt;
+&lt;li&gt;Rents are too damn high. Check this &lt;a href=&#34;http://www.nineteen800.com/&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://www.nineteen800.com/&#39;, &#39;new apartment complex&#39;]);&#34; &gt;new apartment complex&lt;/a&gt; close to Apple &lt;a href=&#34;http://www.nineteen800.com/&#34;&gt;http://www.nineteen800.com/&lt;/a&gt; 2 bed 2 baths for &amp;gt; $4000 in Cupertino which can only be called a town with High API schools + Apple and nothing else.&lt;/li&gt;
+&lt;li&gt;Job Market is tight. Try to find good talent.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Against&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Where are the IPOs that were happening left and right. Who remembers VA Linux. Read this &lt;a href=&#34;http://www.cnet.com/news/10-years-gone-the-va-linux-systems-ipo/&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://www.cnet.com/news/10-years-gone-the-va-linux-systems-ipo/&#39;, &#39;CNet story&#39;]);&#34; &gt;CNet story&lt;/a&gt; for fun. I understand it is much difficult to take a company public and most take the acquisition exit. But still I don&amp;#8217;t see that crazy amount of activity.&lt;/li&gt;
+&lt;li&gt;It is much cheaper to do startups with this thing called cloud.&lt;/li&gt;
+&lt;li&gt;My highly unscientific 101-Billboard Index hasn&amp;#8217;t started flashing red yet. During the dot com days somewhere after Marsh road exit and all the way to SF, there used to be so many billboards on both sides of 101 that you couldn&amp;#8217;t see past them.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Will be interesting to watch the next few years.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mystery of green circles</title>
+      <link>https://2pk.github.io/2012/05/mystery-of-green-circles/</link>
+      <pubDate>Sat, 05 May 2012 18:00:11 +0000</pubDate>
+      
+      <guid>https://2pk.github.io/2012/05/mystery-of-green-circles/</guid>
+      <description>&lt;p&gt;Often when I am travelling I see these giant green circles on the ground. They look beautiful and is clear are man made. But what is going on. I have seen them all over the US, on the west coast, while flying to east or south you can see them.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://2pk.github.io/2012-05-05-10-36-15_AMERICA-REVEALED-In-Search-of-the-Traditional-Farm-PBS-YouTube.png&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://pnarula.com/assets/2012-05-05-10-36-15_AMERICA-REVEALED-In-Search-of-the-Traditional-Farm-PBS-YouTube.png&#39;, &#39;&#39;]);&#34; &gt;&lt;img class=&#34;aligncenter size-medium wp-image-418&#34; title=&#34;2012-05-05 10-36-15_AMERICA REVEALED  In Search of the Traditional Farm  PBS - YouTube&#34; src=&#34;https://2pk.github.io/images/2012-05-05-10-36-15_AMERICA-REVEALED-In-Search-of-the-Traditional-Farm-PBS-YouTube-300x166.png&#34; alt=&#34;&#34; width=&#34;300&#34; height=&#34;166&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Finally the mystery was solved when I was watching &amp;#8220;&lt;a href=&#34;http://www.pbs.org/america-revealed/episode/1/&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://www.pbs.org/america-revealed/episode/1/&#39;, &#39;America Revealed &amp;#8211; Food Machine&amp;#8221; by PBS&#39;]);&#34; title=&#34;America Revealed - The food machine&#34;  target=&#34;_blank&#34;&gt;America Revealed &amp;#8211; Food Machine&amp;#8221; by PBS&lt;/a&gt;. These are agriculture fields or food factories  &lt;img src=&#34;http://pnarula.com/wp/wp-includes/images/smilies/simple-smile.png&#34; alt=&#34;:)&#34; class=&#34;wp-smiley&#34; style=&#34;height: 1em; max-height: 1em;&#34; /&gt;irriagated by something called central pivot irrigation system. Here is a difintion from &lt;a href=&#34;http://en.wikipedia.org/wiki/Center_pivot_irrigation&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://en.wikipedia.org/wiki/Center_pivot_irrigation&#39;, &#39;wikipedia&#39;]);&#34; title=&#34;Center Pivot Irrigation&#34;  target=&#34;_blank&#34;&gt;wikipedia&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Central pivot irrigation is a form of overhead (&lt;a href=&#34;http://en.wikipedia.org/wiki/Irrigation_sprinkler&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://en.wikipedia.org/wiki/Irrigation_sprinkler&#39;, &#39;sprinkler&#39;]);&#34; title=&#34;Irrigation sprinkler&#34;&gt;sprinkler&lt;/a&gt;) irrigation consisting of several segments of pipe (usually &lt;a href=&#34;http://en.wikipedia.org/wiki/Galvanized_steel&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://en.wikipedia.org/wiki/Galvanized_steel&#39;, &#39;galvanized steel&#39;]);&#34; title=&#34;Galvanized steel&#34;&gt;galvanized steel&lt;/a&gt; or &lt;a href=&#34;http://en.wikipedia.org/wiki/Aluminum&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://en.wikipedia.org/wiki/Aluminum&#39;, &#39;aluminum&#39;]);&#34; title=&#34;Aluminum&#34;&gt;aluminum&lt;/a&gt;) joined together and supported by &lt;a href=&#34;http://en.wikipedia.org/wiki/Truss&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://en.wikipedia.org/wiki/Truss&#39;, &#39;trusses&#39;]);&#34; title=&#34;Truss&#34;&gt;trusses&lt;/a&gt;, mounted on wheeled towers with sprinklers positioned along its length. The machine moves in a circular pattern and is fed with water from the pivot point at the center of the circle.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;If you have an hour to spare the PBS documentary is a great watch. You will be amazed at the scale, efficiency, diversity of this giant food producing system. Some of the scenes are quite haunting like all cows getting lined up for getting processed as beef or the host of the show looking in the eyes of a cow and saying is this the same animal or something man made etc. Description of the episode from PBS&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Over the past century, an American industrial revolution has given rise to the biggest, most productive food machine the world has ever known.&lt;/p&gt;
+
+&lt;p&gt;In this episode, host Yul Kwon explores how this machine feeds nearly 300 million Americans every day.  He discovers engineering marvels we’ve created by putting nature to work and takes a look at the costs of our insatiable appetite on our health and environment.&lt;/p&gt;
+
+&lt;p&gt;For the first time in human history, less than 2% of the population can feed the other 98%.  Yul embarks on a trip that begins with a pizza delivery route in New York City then goes across country to California’s Central Valley, where nearly 50% of America’s fruits, nuts and vegetables are grown and skydives into the heartland for an aerial look of our farmlands.&lt;/p&gt;
+
+&lt;p&gt;He meets the men and women who keep us fed 365 days a year—everyone from industrial to urban farmers, crop dusting pilots to long distance bee truckers, modern day cowboys to the pizza deliveryman.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p style=&#34;font-size: 11px; font-family: Arial, Helvetica, sans-serif; color: #808080; margin-top: 5px; background: transparent; text-align: center; width: 512px;&#34;&gt;
+  Watch &lt;a href=&#34;http://video.pbs.org/video/2214315175&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://video.pbs.org/video/2214315175&#39;, &#39;Food Machine&#39;]);&#34; style=&#34;text-decoration: none !important; font-weight: normal !important; height: 13px; color: #4eb2fe !important;&#34;  target=&#34;_blank&#34;&gt;Food Machine&lt;/a&gt; on PBS. See more from &lt;a href=&#34;http://www.pbs.org/america-revealed/&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://www.pbs.org/america-revealed/&#39;, &#39;America Revealed.&#39;]);&#34; style=&#34;text-decoration: none !important; font-weight: normal !important; height: 13px; color: #4eb2fe !important;&#34;  target=&#34;_blank&#34;&gt;America Revealed.&lt;/a&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bridges of bay area</title>
+      <link>https://2pk.github.io/2012/02/bridges-of-bay-area/</link>
+      <pubDate>Fri, 24 Feb 2012 02:01:24 +0000</pubDate>
+      
+      <guid>https://2pk.github.io/2012/02/bridges-of-bay-area/</guid>
+      <description>&lt;p&gt;Whenever you are flying over an area just after the takeoff or before landing, most of the time landscape below looks like a organized jumble of &lt;a href=&#34;https://2pk.github.io/images/bridges-of-bayarea.jpg&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;/images/bridges-of-bayarea.jpg&#39;, &#39;&#39;]);&#34; &gt;&lt;img class=&#34;alignright size-medium wp-image-377&#34; title=&#34;bridges-of-bayarea&#34; src=&#34;https://2pk.github.io/images/bridges-of-bayarea-225x300.jpg&#34; alt=&#34;&#34; width=&#34;225&#34; height=&#34;300&#34; /&gt;&lt;/a&gt;residential and commercial buildings with criss-crossing roads and highways. Since our mind is such a great pattern matcher, occasionally you recognize a landmark or building from up above and your mind feels happy.&lt;/p&gt;
+
+&lt;p&gt;But this morning in my regular early morning flights to Portland, OR I was in for a treat.  Few minutes after takeoff I noticed marshlands and thought we are going over the bay area parallel to 101 side of the bay. Then I noticed the first bridge and thought that must be San Mateo 92 bridge. But then the 2nd bridge became visible and I could make out that 1st one must be Dumbartan bridge and this one is San Mateo bridge. Now it became clear that flight took the path of flying over south bay, east bay parallel to 880 north. So next I could see bay bridge and SF downdown lights and said wow. Now my eyes started looking for Golden Gate and San Rafael bridge and lo and behold you could see them both. Infact you could see San Quentin prison lights at the end of San Rafael bridge.&lt;/p&gt;
+
+&lt;p&gt;I thought to my self the only bridge to be seen now is Benecia bridge near Fairfield. I could see two very close small parallel bridges but wasn&amp;#8217;t sure if they are the ones I am looking for. Since I cross Benecia bridge every two week I knew the landmarks to look for. When you are driving over the bridge you could see these big parked boats and I spotted them from the air. So it was the one I was looking for.  You could also see the orangish brown round structures of the oil refinery so it was double confirmed now.&lt;/p&gt;
+
+&lt;p&gt;Overall it was too much fun to see and locate all the bridges of the bay area, seemed I am part of this land. Right now flying over this incredibly beautiful landscape of snow studded mountains with a lake in between. Don&amp;#8217;t know where it is.&lt;/p&gt;
+
+&lt;p style=&#34;text-align: center;&#34;&gt;
+  &lt;a href=&#34;https://2pk.github.io/images/IMAG0500.jpg&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;/images/IMAG0500.jpg&#39;, &#39;&#39;]);&#34; &gt;&lt;img class=&#34;size-medium wp-image-378 aligncenter&#34; title=&#34;IMAG0500&#34; src=&#34;https://2pk.github.io/images/IMAG0500-300x168.jpg&#34; alt=&#34;&#34; width=&#34;300&#34; height=&#34;168&#34; /&gt;&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;OK even the Flight Attendant pointed at the beauty of this. We are flying over Mt Shasta and Crater Lake should be coming in about 10 minutes. See the pics. . One reason these were closer was because I was flying on this plane which flies at 20000 ft rather than the normal 30000 ft.  Will post this when I reach Portland.&lt;/p&gt;
+
+&lt;p style=&#34;text-align: center;&#34;&gt;
+  &lt;a href=&#34;https://2pk.github.io/images/IMAG0501.jpg&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;/images/IMAG0501.jpg&#39;, &#39;&#39;]);&#34; &gt;&lt;img class=&#34;size-medium wp-image-379 aligncenter&#34; title=&#34;IMAG0501&#34; src=&#34;https://2pk.github.io/images/IMAG0501-300x168.jpg&#34; alt=&#34;&#34; width=&#34;300&#34; height=&#34;168&#34; /&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>First Sin of Capitalism</title>
+      <link>https://2pk.github.io/2010/10/first-sin-of-capitalism/</link>
+      <pubDate>Sat, 16 Oct 2010 21:34:30 +0000</pubDate>
+      
+      <guid>https://2pk.github.io/2010/10/first-sin-of-capitalism/</guid>
+      <description>&lt;p&gt;WaPo&amp;#8217;s article on &lt;a href=&#34;http://www.washingtonpost.com/wp-dyn/content/article/2010/10/15/AR2010101506541.html  &#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://www.washingtonpost.com/wp-dyn/content/article/2010/10/15/AR2010101506541.html  &#39;, &#39;Foreclosure Fraud&#39;]);&#34;  target=&#34;_blank&#34;&gt;Foreclosure Fraud&lt;/a&gt; via &lt;a href=&#34;http://www.ritholtz.com/blog/2010/10/systemic-industrywide-pervasive&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://www.ritholtz.com/blog/2010/10/systemic-industrywide-pervasive&#39;, &#39;Big Picture &#39;]);&#34;  target=&#34;_blank&#34;&gt;Big Picture &lt;/a&gt;has this quote from the article&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;#8220;Law firms competed with one another to file the largest number of foreclosures on behalf of lenders – and were rewarded for their work with bonuses. These and other companies that handled the preparation of documents were paid for volume, so they processed as many as they could &lt;em&gt;en masse,&lt;/em&gt; leaving little time to read the paperwork and catch errors.&amp;#8221;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I guess this was the flaw Greenspan admitted. I understand incentives matter. So if the incentives are stacked like this &amp;#8211; is the only way actors will behave? Is regulation the only way out?&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

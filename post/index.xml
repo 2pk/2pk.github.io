@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Post-rsses on Beta Thoughts</title>
+    <link>https://2pk.github.io/post/index.xml</link>
+    <description>Recent content in Post-rsses on Beta Thoughts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Nov 2015 06:36:22 +0000</lastBuildDate>
+    <atom:link href="https://2pk.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Making of the wordpress empire</title>
+      <link>https://2pk.github.io/2015/11/making-of-the-wordpress-empire/</link>
+      <pubDate>Tue, 24 Nov 2015 06:36:22 +0000</pubDate>
+      
+      <guid>https://2pk.github.io/2015/11/making-of-the-wordpress-empire/</guid>
+      <description>&lt;p&gt;It is interesting to see the new architecture of wordpress. WordPress.com and self-hosted wordpress is all REST enabled now. There is a new desktop client. You can even manage your self hosted blogs from wordpress.com. They even use the new js flavor of the times &amp;#8211; react ( I love react as well). From techie perspective it is quite nice.&lt;/p&gt;
+
+&lt;p&gt;What I would hate to see is that now that I am lured into logging into wordpress.com As a self-hosted blog for 10-11 years I have never had the need to login to wordpress.com. So now all self-hosted blogs dial home. This is quite good from commercial perspectives wherein Automattic would get the chance to see and maybe interact in auto-matt-ic way. If that happens I hope it would be quite non-intrusive.&lt;/p&gt;
+
+&lt;p&gt;Ok that was a good test post from the new wordpress.com mac client.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SITsv SAP Inside Track Silicon Valley 2015</title>
+      <link>https://2pk.github.io/2015/09/sitsv-sap-inside-track-silicon-valley-2015/</link>
+      <pubDate>Fri, 11 Sep 2015 06:46:18 +0000</pubDate>
+      
+      <guid>https://2pk.github.io/2015/09/sitsv-sap-inside-track-silicon-valley-2015/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Join &lt;/strong&gt;@rwang0 @finnern @aiazkazi @njasta @moyalynne at SITsv at HanaHaus in Palo Alto.  I will be speaking on SAP HANA Cloud Platform. The event is free. Register &lt;a href=&#34;https://www.eventbrite.com/e/sap-inside-track-silicon-valley-2015-sitsv-tickets-17596205725&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;https://www.eventbrite.com/e/sap-inside-track-silicon-valley-2015-sitsv-tickets-17596205725&#39;, &#39;here&#39;]);&#34; &gt;here&lt;/a&gt;. More info and agenda on &lt;a href=&#34;http://wiki.scn.sap.com/wiki/display/events/SAP+Inside+Track+Silicon+Valley+2015%3A+%23SITsv&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://wiki.scn.sap.com/wiki/display/events/SAP+Inside+Track+Silicon+Valley+2015%3A+%23SITsv&#39;, &#39;SCN&#39;]);&#34; &gt;SCN&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Is it really Bubble 2 dot 0</title>
+      <link>https://2pk.github.io/2015/09/is-it-really-bubble-2-dot-0/</link>
+      <pubDate>Tue, 08 Sep 2015 06:01:42 +0000</pubDate>
+      
+      <guid>https://2pk.github.io/2015/09/is-it-really-bubble-2-dot-0/</guid>
+      <description>&lt;p&gt;Lately there has been a lot of chatter about bubble in Silicon Valley. This &lt;a href=&#34;http://www.vanityfair.com/news/2015/08/is-silicon-valley-in-another-bubble&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://www.vanityfair.com/news/2015/08/is-silicon-valley-in-another-bubble&#39;, &#39;article&#39;]);&#34; &gt;article&lt;/a&gt; by Nick Bilton in vanity fair is the latest in that chatter. No doubt there is a preponderance of getting oneself in The Unicorn Club. The burn rates among startups are high. @pmarca raised the &lt;a href=&#34;https://twitter.com/pmarca/status/515216011277398016&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;https://twitter.com/pmarca/status/515216011277398016&#39;, &#39;cash burn concern &#39;]);&#34; &gt;cash burn concern &lt;/a&gt;an year ago but has been &lt;a href=&#34;https://twitter.com/pmarca/status/636307488720027648&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;https://twitter.com/pmarca/status/636307488720027648&#39;, &#39;mocking end of world&#39;]);&#34; &gt;mocking end of world&lt;/a&gt; on all the recent dips. Even the fine folks at Hacker News are discussing &lt;a href=&#34;https://news.ycombinator.com/item?id=9712868&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;https://news.ycombinator.com/item?id=9712868&#39;, &#39;this&#39;]);&#34; &gt;this&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;May be it is. Having lived thru the .com bust my observations in favor and against are&lt;/p&gt;
+
+&lt;p&gt;In favor&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Have you seen the traffic during commute hours. I used to do Fremont &amp;#8211; Mountain View during 99-01 and even with the old 237-880 crossover it wasn&amp;#8217;t so bad. Now a days it is a constant zoo from 7am-10am.&lt;/li&gt;
+&lt;li&gt;Rents are too damn high. Check this &lt;a href=&#34;http://www.nineteen800.com/&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://www.nineteen800.com/&#39;, &#39;new apartment complex&#39;]);&#34; &gt;new apartment complex&lt;/a&gt; close to Apple &lt;a href=&#34;http://www.nineteen800.com/&#34;&gt;http://www.nineteen800.com/&lt;/a&gt; 2 bed 2 baths for &amp;gt; $4000 in Cupertino which can only be called a town with High API schools + Apple and nothing else.&lt;/li&gt;
+&lt;li&gt;Job Market is tight. Try to find good talent.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Against&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Where are the IPOs that were happening left and right. Who remembers VA Linux. Read this &lt;a href=&#34;http://www.cnet.com/news/10-years-gone-the-va-linux-systems-ipo/&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://www.cnet.com/news/10-years-gone-the-va-linux-systems-ipo/&#39;, &#39;CNet story&#39;]);&#34; &gt;CNet story&lt;/a&gt; for fun. I understand it is much difficult to take a company public and most take the acquisition exit. But still I don&amp;#8217;t see that crazy amount of activity.&lt;/li&gt;
+&lt;li&gt;It is much cheaper to do startups with this thing called cloud.&lt;/li&gt;
+&lt;li&gt;My highly unscientific 101-Billboard Index hasn&amp;#8217;t started flashing red yet. During the dot com days somewhere after Marsh road exit and all the way to SF, there used to be so many billboards on both sides of 101 that you couldn&amp;#8217;t see past them.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Will be interesting to watch the next few years.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cloud pricing and pay as you go model</title>
+      <link>https://2pk.github.io/2013/05/cloud-pricing-and-pay-as-you-go-model/</link>
+      <pubDate>Sat, 25 May 2013 07:23:50 +0000</pubDate>
+      
+      <guid>https://2pk.github.io/2013/05/cloud-pricing-and-pay-as-you-go-model/</guid>
+      <description>&lt;p&gt;&lt;img class=&#34;size-full wp-image-441 aligncenter&#34; alt=&#34;cloud-pricing&#34; src=&#34;https://2pk.github.io/images/cloud-pricing.png&#34; width=&#34;393&#34; height=&#34;223&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Fellow cloudman Matthias Steiner tweeted about pay as you go model and clouds&lt;/p&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;
+  &lt;p&gt;
+    wonder why so many critics are obsessed by &amp;#8220;pay-as-you-go&amp;#8221; irt &lt;a href=&#34;https://twitter.com/search/%23cloud&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;https://twitter.com/search/%23cloud&#39;, &#39;#cloud&#39;]);&#34; &gt;#cloud&lt;/a&gt;. I&amp;#8217;m pretty sure they all have a &lt;a href=&#34;https://twitter.com/search/%23flatrate&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;https://twitter.com/search/%23flatrate&#39;, &#39;#flatrate&#39;]);&#34; &gt;#flatrate&lt;/a&gt; for their mobiles… &lt;a href=&#34;https://twitter.com/search/%23ensw&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;https://twitter.com/search/%23ensw&#39;, &#39;#ensw&#39;]);&#34; &gt;#ensw&lt;/a&gt;
+  &lt;/p&gt;
+  
+  &lt;p&gt;
+    — Matthias Steiner (@steinermatt) &lt;a href=&#34;https://twitter.com/steinermatt/status/337853059008970752&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;https://twitter.com/steinermatt/status/337853059008970752&#39;, &#39;May 24, 2013&#39;]);&#34; &gt;May 24, 2013&lt;/a&gt;
+  &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Since I have been doing cloud and pricing for the past few years I had few thoughts on this. Pricing is an art and science combined. To understand let me start with a story from my childhood. If you have even been to India and bought anything from a bazaar you know you never pay the first price the vendor asks for. As a kid I would see my elders haggling over the prices of everything. One fine afternoon my elder brother was buying shoes for me and he got the vendor from Rs 250 to Rs 90 (early 80s good times I know). After getting the shiny shoes for me I asked him how does he came to the figure of Rs 90 and he told me about he thought about&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;the cost of material, labor and margin&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;and Rs 90 seemed like a good price. I internalized this concept and lived with it for years. Then I came to US and I noticed all sorts of pricing. Apparel pricing where they would be &amp;#8220;fully priced&amp;#8221; in spring, some what discounted in summer and deeply discounted by Autumn. Air ticket pricing was black magic. So read a few books&lt;sup&gt;[1][2]&lt;sup&gt; and about marginal cost of producing something but then finally settled on the idea of pricing as&lt;/sup&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;what someone is ready to pay for&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This concept of what someone is ready to pay for is a great one. I mean if for the same necktie one person pays $50 and the other would gladly pay $80, I would like to sell accordingly. But how do I know who would pay how much. This is a really hard problem to solve and is the reason you see a regular cup of coffee for $2.00 while the white caramel macchiato with soy milk costs $4.50 at your favorite coffee joint. You don&amp;#8217;t think that extra stuff costs the seller $2.50. It is their way of segmenting the customer and see who would pay more or who derives how much value.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://pnarula.com/assets/coffee_pricing.png&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://pnarula.com/assets/coffee_pricing.png&#39;, &#39;&#39;]);&#34; &gt;&lt;img class=&#34;aligncenter size-full wp-image-440&#34; alt=&#34;coffee_pricing&#34; src=&#34;https://2pk.github.io/images/coffee_pricing.png&#34; width=&#34;565&#34; height=&#34;186&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The above concept works great where perceived value can be shown by adding attributes or services like models of cars, versions of software. But there are markets where doing this segmentation is a little hard. Utility markets for water, electricity and gas are great example of this. One Kwh hour of electricity is indistinguishable from another (though you can still bring in time of the day, how it was produced for some fun). These are the markets that are ripe for pay as you go. You could have tiered pricing over here as well. In cloud computing IaaS and PaaS models (compute units, storage, API calls etc) closely remember this utility model and we see similar pricing models as well.&lt;/p&gt;
+
+&lt;p&gt;There is one very important characteristic that dictates the PAYG model for clouds is that of elasticity and efficient use of resources. See in the on-premise model, an organization plans for the peak capacity and buys hardware accordingly (capex). But that peak performance might happen only 10% of the time or even lesser. So these resources are underutilized. But the organization has already bought so not much can be done (though for very large organizations a private cloud can be a choice). Now in the cloud PAYG model most of time you are working under a normal load and paying accordingly. If there is spike in the demand resources are added elastically and you pay for what you use. The same resources that you utilized during the peak time could be repurposed for other organizations during your average load profile.&lt;/p&gt;
+
+&lt;p&gt;Another alternative pricing model is of packaging where for commercial reasons or adoption reasons a seller might choose to package the resources in bundles and sell it. For example cell phone plans are great examples of this. These are valid models but fail the elasticity options discussed above as what happens when there is spike in demand. Sometimes you might see unlimited plans (cell phone, ISPs) but then you get into fair use of the resources ( recently a guy was using 50TB of bandwidth on Verizons FIOS plan).&lt;/p&gt;
+
+&lt;p&gt;In the end I would say utility like evolving nature of cloud resources and elasticity is what drives the clouds to PAYG models. We can also thank AWS for setting up the precedent.&lt;/p&gt;
+
+&lt;p&gt;[1] &lt;a href=&#34;http://www.amazon.com/Undercover-Economist-Tim-Harford&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://www.amazon.com/Undercover-Economist-Tim-Harford&#39;, &#39;The Undercover Economist&#39;]);&#34;  target=&#34;_blank&#34;&gt;The Undercover Economist&lt;/a&gt; &amp;#8211; Tim Hartford (light reading pop science)&lt;/p&gt;
+
+&lt;p&gt;[2] &lt;a href=&#34;http://www.amazon.com/Principles-Microeconomics-5th-Gregory-Mankiw/dp/0324589980&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://www.amazon.com/Principles-Microeconomics-5th-Gregory-Mankiw/dp/0324589980&#39;, &#39;Principles of Microeconomics&#39;]);&#34;  target=&#34;_blank&#34;&gt;Principles of Microeconomics&lt;/a&gt; &amp;#8211; Greg Mankiw (heavy dry university text)&lt;/p&gt;
+
+&lt;p&gt;Coffee Ratecard image by &amp;#8211; &lt;a href=&#34;http://www.flickr.com/photos/nataliejohnson/3017624698/&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://www.flickr.com/photos/nataliejohnson/3017624698/&#39;, &#39;http://www.flickr.com/photos/nataliejohnson/3017624698/&#39;]);&#34; &gt;&lt;a href=&#34;http://www.flickr.com/photos/nataliejohnson/3017624698/&#34;&gt;http://www.flickr.com/photos/nataliejohnson/3017624698/&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bay area at its best Thanks to Bjorn Goerke</title>
+      <link>https://2pk.github.io/2013/04/bay-area-at-its-best-thanks-to-bjorn-goerke/</link>
+      <pubDate>Tue, 02 Apr 2013 22:09:22 +0000</pubDate>
+      
+      <guid>https://2pk.github.io/2013/04/bay-area-at-its-best-thanks-to-bjorn-goerke/</guid>
+      <description>&lt;p&gt;Bay area at its best. Thanks to Bjorn Goerke for quoting this by Steinbeck which is so apt ( &lt;a href=&#34;http://bgoerke.wordpress.com/2013/04/02/ive-never-seen-her-more-lovely/&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://bgoerke.wordpress.com/2013/04/02/ive-never-seen-her-more-lovely/&#39;, &#39;http://bgoerke.wordpress.com/2013/04/02/ive-never-seen-her-more-lovely/&#39;]);&#34;  class=&#34;ot-anchor&#34; rel=&#34;nofollow&#34;&gt;&lt;a href=&#34;http://bgoerke.wordpress.com/2013/04/02/ive-never-seen-her-more-lovely/&#34;&gt;http://bgoerke.wordpress.com/2013/04/02/ive-never-seen-her-more-lovely/&lt;/a&gt;&lt;/a&gt; )&lt;/p&gt;
+
+&lt;p&gt;When I was a child growing up in Salinas we called San Francisco “the City”. Of course it was the only city we knew, but I still think of it as the City, and so does everyone else who has ever associated with it. A strange and exclusive word is “city”. Besides San Francisco, only small sections of London and Rome stay in the mind as the City. New Yorkers say they go to town. Paris has no title but Paris. Mexico City is the Capital.&lt;/p&gt;
+
+&lt;p&gt;San Francisco put on a show for me. I saw her across the bay, from the great road that bypasses Sausalito and enters the Golden Gate Bridge. The afternoon sun painted her white and gold rising on her hills like a noble city in a happy dream. A city on hills has it over flatland places. New York makes its own hills with craning buildings, but this gold and white acropolis rising wave on wave against the blue of the Pacific sky was a stunning thing, a painted thing like a picture of a medieval Italian city which can never have existed.&lt;/p&gt;
+
+&lt;p&gt;I stopped in a parking place to look at her and the necklace bridge over the entrance from the sea that led to her. Over the green higher hills to the south, the evening fog rolled like herds of sheep coming to cote in the golden city. I’ve never seen her more lovely. When I was a child and we were going to the City, I couldn’t sleep for several nights before, out of bursting excitement. She leaves a mark.&lt;/p&gt;
+
+&lt;p&gt;FROM John Steinbeck, Travels with Charley, 1962&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mystery of green circles</title>
+      <link>https://2pk.github.io/2012/05/mystery-of-green-circles/</link>
+      <pubDate>Sat, 05 May 2012 18:00:11 +0000</pubDate>
+      
+      <guid>https://2pk.github.io/2012/05/mystery-of-green-circles/</guid>
+      <description>&lt;p&gt;Often when I am travelling I see these giant green circles on the ground. They look beautiful and is clear are man made. But what is going on. I have seen them all over the US, on the west coast, while flying to east or south you can see them.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://2pk.github.io/2012-05-05-10-36-15_AMERICA-REVEALED-In-Search-of-the-Traditional-Farm-PBS-YouTube.png&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://pnarula.com/assets/2012-05-05-10-36-15_AMERICA-REVEALED-In-Search-of-the-Traditional-Farm-PBS-YouTube.png&#39;, &#39;&#39;]);&#34; &gt;&lt;img class=&#34;aligncenter size-medium wp-image-418&#34; title=&#34;2012-05-05 10-36-15_AMERICA REVEALED  In Search of the Traditional Farm  PBS - YouTube&#34; src=&#34;https://2pk.github.io/images/2012-05-05-10-36-15_AMERICA-REVEALED-In-Search-of-the-Traditional-Farm-PBS-YouTube-300x166.png&#34; alt=&#34;&#34; width=&#34;300&#34; height=&#34;166&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Finally the mystery was solved when I was watching &amp;#8220;&lt;a href=&#34;http://www.pbs.org/america-revealed/episode/1/&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://www.pbs.org/america-revealed/episode/1/&#39;, &#39;America Revealed &amp;#8211; Food Machine&amp;#8221; by PBS&#39;]);&#34; title=&#34;America Revealed - The food machine&#34;  target=&#34;_blank&#34;&gt;America Revealed &amp;#8211; Food Machine&amp;#8221; by PBS&lt;/a&gt;. These are agriculture fields or food factories  &lt;img src=&#34;http://pnarula.com/wp/wp-includes/images/smilies/simple-smile.png&#34; alt=&#34;:)&#34; class=&#34;wp-smiley&#34; style=&#34;height: 1em; max-height: 1em;&#34; /&gt;irriagated by something called central pivot irrigation system. Here is a difintion from &lt;a href=&#34;http://en.wikipedia.org/wiki/Center_pivot_irrigation&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://en.wikipedia.org/wiki/Center_pivot_irrigation&#39;, &#39;wikipedia&#39;]);&#34; title=&#34;Center Pivot Irrigation&#34;  target=&#34;_blank&#34;&gt;wikipedia&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Central pivot irrigation is a form of overhead (&lt;a href=&#34;http://en.wikipedia.org/wiki/Irrigation_sprinkler&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://en.wikipedia.org/wiki/Irrigation_sprinkler&#39;, &#39;sprinkler&#39;]);&#34; title=&#34;Irrigation sprinkler&#34;&gt;sprinkler&lt;/a&gt;) irrigation consisting of several segments of pipe (usually &lt;a href=&#34;http://en.wikipedia.org/wiki/Galvanized_steel&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://en.wikipedia.org/wiki/Galvanized_steel&#39;, &#39;galvanized steel&#39;]);&#34; title=&#34;Galvanized steel&#34;&gt;galvanized steel&lt;/a&gt; or &lt;a href=&#34;http://en.wikipedia.org/wiki/Aluminum&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://en.wikipedia.org/wiki/Aluminum&#39;, &#39;aluminum&#39;]);&#34; title=&#34;Aluminum&#34;&gt;aluminum&lt;/a&gt;) joined together and supported by &lt;a href=&#34;http://en.wikipedia.org/wiki/Truss&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://en.wikipedia.org/wiki/Truss&#39;, &#39;trusses&#39;]);&#34; title=&#34;Truss&#34;&gt;trusses&lt;/a&gt;, mounted on wheeled towers with sprinklers positioned along its length. The machine moves in a circular pattern and is fed with water from the pivot point at the center of the circle.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;If you have an hour to spare the PBS documentary is a great watch. You will be amazed at the scale, efficiency, diversity of this giant food producing system. Some of the scenes are quite haunting like all cows getting lined up for getting processed as beef or the host of the show looking in the eyes of a cow and saying is this the same animal or something man made etc. Description of the episode from PBS&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Over the past century, an American industrial revolution has given rise to the biggest, most productive food machine the world has ever known.&lt;/p&gt;
+
+&lt;p&gt;In this episode, host Yul Kwon explores how this machine feeds nearly 300 million Americans every day.  He discovers engineering marvels we’ve created by putting nature to work and takes a look at the costs of our insatiable appetite on our health and environment.&lt;/p&gt;
+
+&lt;p&gt;For the first time in human history, less than 2% of the population can feed the other 98%.  Yul embarks on a trip that begins with a pizza delivery route in New York City then goes across country to California’s Central Valley, where nearly 50% of America’s fruits, nuts and vegetables are grown and skydives into the heartland for an aerial look of our farmlands.&lt;/p&gt;
+
+&lt;p&gt;He meets the men and women who keep us fed 365 days a year—everyone from industrial to urban farmers, crop dusting pilots to long distance bee truckers, modern day cowboys to the pizza deliveryman.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p style=&#34;font-size: 11px; font-family: Arial, Helvetica, sans-serif; color: #808080; margin-top: 5px; background: transparent; text-align: center; width: 512px;&#34;&gt;
+  Watch &lt;a href=&#34;http://video.pbs.org/video/2214315175&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://video.pbs.org/video/2214315175&#39;, &#39;Food Machine&#39;]);&#34; style=&#34;text-decoration: none !important; font-weight: normal !important; height: 13px; color: #4eb2fe !important;&#34;  target=&#34;_blank&#34;&gt;Food Machine&lt;/a&gt; on PBS. See more from &lt;a href=&#34;http://www.pbs.org/america-revealed/&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://www.pbs.org/america-revealed/&#39;, &#39;America Revealed.&#39;]);&#34; style=&#34;text-decoration: none !important; font-weight: normal !important; height: 13px; color: #4eb2fe !important;&#34;  target=&#34;_blank&#34;&gt;America Revealed.&lt;/a&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Building HTPC 3 Capabilities and big picture</title>
+      <link>https://2pk.github.io/2012/04/building-htpc-3-capabilities-and-big-picture/</link>
+      <pubDate>Sun, 08 Apr 2012 19:45:25 +0000</pubDate>
+      
+      <guid>https://2pk.github.io/2012/04/building-htpc-3-capabilities-and-big-picture/</guid>
+      <description>&lt;p&gt;_(This is the last of this HTPC build series do read the &lt;a href=&#34;http://pnarula.com/2012/htpc-1/&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://pnarula.com/2012/htpc-1/&#39;, &#39;Part 1 &amp;#8211; HTPC Research&#39;]);&#34; &gt;Part 1 &amp;#8211; HTPC Research&lt;/a&gt; and &lt;a href=&#34;http://pnarula.com/2012/htpc-2/&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://pnarula.com/2012/htpc-2/&#39;, &#39;Part 2 &amp;#8211; HTPC Build &#39;]);&#34; &gt;Part 2 &amp;#8211; HTPC Build &lt;/a&gt;)_&lt;/p&gt;
+
+&lt;p&gt;After researching for almost 3 years HTPC was finally built and is the center of my audio video setup. It is truly a one-box-to-rule-the-all solution. I was able to replace the following AV components with this single box&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Google TV &amp;#8211; online streaming&lt;/li&gt;
+&lt;li&gt;WDTV Live &amp;#8211; local media player&lt;/li&gt;
+&lt;li&gt;Comcast Cable Settop box&lt;/li&gt;
+&lt;li&gt;Bluray-DVD player&lt;/li&gt;
+&lt;li&gt;Digital Video Recorder&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Here is a photo I posted on facebook&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://pnarula.com/assets/htpc.jpg&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;/images/htpc.jpg&#39;, &#39;&#39;]);&#34; &gt;&lt;img class=&#34;aligncenter size-medium wp-image-402&#34; title=&#34;htpc&#34; src=&#34;https://2pk.github.io/images/htpc-300x268.jpg&#34; alt=&#34;&#34; width=&#34;300&#34; height=&#34;268&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;My AV Setup now includes &amp;#8211; HTPC, audio receiver, RF based keyboard and remote, Harmony remote. HTPC provides the following capabilities&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Live cable TV&lt;/li&gt;
+&lt;li&gt;DVR&lt;/li&gt;
+&lt;li&gt;Netflix, Hulu etc&lt;/li&gt;
+&lt;li&gt;Desi movie watching from bwcinema.com&lt;/li&gt;
+&lt;li&gt;Online music &amp;#8211; pandora, saavn, dhingana&lt;/li&gt;
+&lt;li&gt;Local media play i.e. digital photos, home videos&lt;/li&gt;
+&lt;li&gt;Bluray/DVD player&lt;/li&gt;
+&lt;li&gt;File and backup server&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Let us see how long this setup would last &lt;img src=&#34;http://pnarula.com/wp/wp-includes/images/smilies/simple-smile.png&#34; alt=&#34;:)&#34; class=&#34;wp-smiley&#34; style=&#34;height: 1em; max-height: 1em;&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Building HTPC 2 Components</title>
+      <link>https://2pk.github.io/2012/04/building-htpc-2-components/</link>
+      <pubDate>Sun, 08 Apr 2012 19:45:06 +0000</pubDate>
+      
+      <guid>https://2pk.github.io/2012/04/building-htpc-2-components/</guid>
+      <description>&lt;p&gt;_(This is the second part of this HTPC build series do read the &lt;a href=&#34;http://pnarula.com/2012/htpc-1/&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://pnarula.com/2012/htpc-1/&#39;, &#39;Part 1 &amp;#8211; HTPC Research&#39;]);&#34; &gt;Part 1 &amp;#8211; HTPC Research&lt;/a&gt; and &lt;a href=&#34;http://pnarula.com/2012/htpc-3/&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://pnarula.com/2012/htpc-3/&#39;, &#39;Part 3 &amp;#8211; HTPC Final &#39;]);&#34; &gt;Part 3 &amp;#8211; HTPC Final &lt;/a&gt;)_&lt;/p&gt;
+
+&lt;p&gt;After doing a lot of research I come up with the final list of components. I choose to go for SSD for the OS and programs drive. Really like the choice of Silver Stone GD06 case I made. But that required me to buy a modular power supply and shorter cable set. I was able to repurpose one of my external 1TB USB drives by opening it and using it as a main storage. Keyboard/Remote choice was based on online reviews. iPazzport is a good looking small form factor RF based remote. Performance is average. My best investment was the Ceton infinity card that allows me to take my cable tv wire into the PC and&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;CPU &amp;#8211; i5-2500 (BX80623I52500) 250&lt;/li&gt;
+&lt;li&gt;Motherboard &amp;#8211; GIGABYTE GA-Z68MX-UD2H-B3 LGA 1155 Intel Z68 150&lt;/li&gt;
+&lt;li&gt;Solid State Hard Drive &amp;#8211; Crucial CT128M4SSD2 m4 2.5&amp;#8243; Solid State Drive &amp;#8211; 128GB 159.99&lt;/li&gt;
+&lt;li&gt;Case &amp;#8211; SilverStone Grandia Series HTPC Case (GD06) 122&lt;/li&gt;
+&lt;li&gt;Tuner card &amp;#8211; Ceton Infinty 4 PCI-e 199.99&lt;/li&gt;
+&lt;li&gt;Power Supply &amp;#8211; SilverStone Strider Plus ST50F-P 500W ATX 79.99&lt;/li&gt;
+&lt;li&gt;Hard disk &amp;#8211; Western Digital &amp;#8211; 1 TB &amp;#8211; $60&lt;/li&gt;
+&lt;li&gt;RAM MEM 4Gx2|GSKILL F3-17000CL9D-8GBXM 74.99&lt;/li&gt;
+&lt;li&gt;Bluray player &amp;#8211; BD Combo Samsung SH-B123L 57.99&lt;/li&gt;
+&lt;li&gt;CPU COOLER SCYTHE|SCSK-1100 R 34.99&lt;/li&gt;
+&lt;li&gt;Keyboard/Remote &amp;#8211; iPazzport KP-810-18R 38.87&lt;/li&gt;
+&lt;li&gt;CablesSilverStone PP05 Short Cable for PSU Set 19.99&lt;/li&gt;
+&lt;li&gt;Wifi AdapRosewill RNX-N180UBE 16.08&lt;/li&gt;
+&lt;li&gt;Guide &amp;#8211; Renethx 4&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Here is a photo of all the components&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://2pk.github.io/images/htpc-components.jpg&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;/images/htpc-components.jpg&#39;, &#39;&#39;]);&#34; &gt;&lt;img class=&#34;aligncenter size-large wp-image-389&#34; title=&#34;htpc-components&#34; src=&#34;https://2pk.github.io/images/htpc-components-1024x682.jpg&#34; alt=&#34;&#34; width=&#34;450&#34; height=&#34;299&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Silverstone GD06 case&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://2pk.github.io/images/htpc-silverstone-gd06.jpg&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;/images/htpc-silverstone-gd06.jpg&#39;, &#39;&#39;]);&#34; &gt;&lt;img class=&#34;aligncenter size-large wp-image-388&#34; title=&#34;htpc-silverstone-gd06&#34; src=&#34;https://2pk.github.io/images/htpc-silverstone-gd06-1024x682.jpg&#34; alt=&#34;&#34; width=&#34;450&#34; height=&#34;299&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Gigabyte Z68 Motherboard&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://2pk.github.io/images/htpc-mobo-gigabyte-z68.jpg&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;/images/htpc-mobo-gigabyte-z68.jpg&#39;, &#39;&#39;]);&#34; &gt;&lt;img class=&#34;aligncenter size-large wp-image-391&#34; title=&#34;htpc-mobo-gigabyte-z68&#34; src=&#34;https://2pk.github.io/images/htpc-mobo-gigabyte-z68-1024x682.jpg&#34; alt=&#34;&#34; width=&#34;450&#34; height=&#34;299&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Assembly in progress&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://2pk.github.io/images/htpc-in-progress.jpg&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;/images/htpc-in-progress.jpg&#39;, &#39;&#39;]);&#34; &gt;&lt;img class=&#34;aligncenter size-large wp-image-390&#34; title=&#34;htpc-in-progress&#34; src=&#34;https://2pk.github.io/images/htpc-in-progress-1024x682.jpg&#34; alt=&#34;&#34; width=&#34;450&#34; height=&#34;299&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;My buddy Guru Chahal also helped me a lot during this HTPC build. Powersupply in the above picture is upside down from the optimal position as the fan should be down. Ultimately I did put in the optimal way. Had to play with cables a lot for that. Couple of interesting things I learnt during this built. CPU needs it own power. Didn&amp;#8217;t knew that and started the PC without that connection. Took some time to figure that out. One should always have a real keyboard handy to configure the PC for 1st time. SATA Blu ray players have separate SATA connectors for data and power. It was hugely satisfying once the HTPC was built and connected with the TV. I ended up spending more than $1000 but it was worth it &lt;img src=&#34;http://pnarula.com/wp/wp-includes/images/smilies/simple-smile.png&#34; alt=&#34;:)&#34; class=&#34;wp-smiley&#34; style=&#34;height: 1em; max-height: 1em;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Building HTPC 1 Research</title>
+      <link>https://2pk.github.io/2012/04/building-htpc-1-research/</link>
+      <pubDate>Sun, 08 Apr 2012 19:44:43 +0000</pubDate>
+      
+      <guid>https://2pk.github.io/2012/04/building-htpc-1-research/</guid>
+      <description>&lt;p&gt;_(This is the first part of this HTPC build series do read the &lt;a href=&#34;http://pnarula.com/2012/htpc-2/&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://pnarula.com/2012/htpc-2/&#39;, &#39;Part 2 &amp;#8211; HTPC Build&#39;]);&#34; &gt;Part 2 &amp;#8211; HTPC Build&lt;/a&gt; and &lt;a href=&#34;http://pnarula.com/2012/htpc-3/&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://pnarula.com/2012/htpc-3/&#39;, &#39;Part 3 &amp;#8211; HTPC Final &#39;]);&#34; &gt;Part 3 &amp;#8211; HTPC Final &lt;/a&gt;)_&lt;/p&gt;
+
+&lt;p&gt;It was 2008 and I needed to replace my old faithful Sony Vega CRT TV. LCD TVs were becoming quite mainstream at that time and anything above 46 inches were more than 2000 bucks. Spending that much requires some research and I landed on avsforum&amp;#8217;s &lt;a href=&#34;http://avsforum.com/avs-vb/forumdisplay.php?f=166&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://avsforum.com/avs-vb/forumdisplay.php?f=166&#39;, &#39;LCD forum.&#39;]);&#34; &gt;LCD forum.&lt;/a&gt; I bought the TV but discovering avsforum was a discovery for gadget loving geek. I will come to that later. Watching TV on 52 inches of LCD was a revelation. Around the same time my little daughter came into the world and there was explosion of cute pictures and HD videos. To watch them on the TV I bought a media player called &lt;a href=&#34;http://www.wdc.com/en/products/homeentertainment/mediaplayers/&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://www.wdc.com/en/products/homeentertainment/mediaplayers/&#39;, &#39;WDTV &#39;]);&#34; &gt;WDTV &lt;/a&gt; which could show me all the media I had on the hard disk attached to it as well as youtube etc.&lt;/p&gt;
+
+&lt;p&gt;Since I had discovered avsforum I kept going back to it for reading various things audio video. I found out that due to their thinness LCD TV have poor speakers so one should get external speakers. For watching movies, speakers should really be in at least 5.1 config. Of course to drive these speakers you need a good audio receiver. While I am grokking the intricacies of audio systems and looking at to get a home-theater-in-a-box or separate speaker and receiver I browse to the &lt;a href=&#34;http://avsforum.com/avs-vb/forumdisplay.php?f=26&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://avsforum.com/avs-vb/forumdisplay.php?f=26&#39;, &#39;home theater PC&#39;]);&#34; &gt;home theater PC&lt;/a&gt; area of avsforum. Being a computer guy it is even more fun.  So now it is 2009 and it has been more than a year I have bought the Samsung 52&amp;#8243; LCD TV. And I am totally sucked into the AV world. Thanks to avsforum.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://2pk.github.io/images/Revue.png&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;/images/Revue.png&#39;, &#39;&#39;]);&#34; &gt;&lt;img class=&#34;alignright size-medium wp-image-395&#34; title=&#34;Revue&#34; src=&#34;https://2pk.github.io/images/Revue-300x156.png&#34; alt=&#34;&#34; width=&#34;300&#34; height=&#34;156&#34; /&gt;&lt;/a&gt;So far I only have the TV and a media player WDTV.  But I am also exploring if I should get speakers, audio receiver and may be a HTPC. Reasoning behind HTPC is to have the browsing capability to stream anything you want as WDTV can only stream youtube and couple of other services. While I am in the wait and see mode, there comes a deal at Fry&amp;#8217;s a local store for Onkyo home theater in a box for quite cheap. Specs look good with some decent speakers and 4 HDMI ins and I buy that on a whim. Then Google announces Google TV. A friend who works at Logitech is able to get me Revue.&lt;/p&gt;
+
+&lt;p&gt;Google TV with Revue is good and it has the Chrome browser where I can browse, stream all I want. It integrates nicely with the Onkyo receiver I have. Netflix, Amazon VOD integration is even nicer. I really like the way search results are overlayed on live TV and the picture in picture is nice. Having used WDTV I am used to the really nice interface to browse local media i.e. pictures and videos. This is where Google TV sucks &amp;#8211; while it is great for online media browsing app for local media is not so good. I have to keep WDTV and Google TV while what I want is a single box for every thing. My desire now for HTPC grows even further. So I start doing the final research for building the HTPC and looking for all the components that would go into it. AVSForum&amp;#8217;s &lt;a href=&#34;http://avsforum.com/avs-vb/forumdisplay.php?s=&amp;daysprune=30&amp;f=26&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://avsforum.com/avs-vb/forumdisplay.php?s=&amp;daysprune=30&amp;f=26&#39;, &#39;HTPC forum&#39;]);&#34; &gt;HTPC forum&lt;/a&gt; is the ultimate source for it. Two threads on this forum&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt; &lt;a href=&#34;http://avsforum.com/avs-vb/showthread.php?t=940972&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://avsforum.com/avs-vb/showthread.php?t=940972&#39;, &#39;renethx&#39;]);&#34; &gt;renethx&lt;/a&gt; &amp;#8216;s &lt;strong&gt;Guide to Building a HD HTPC &lt;/strong&gt;and&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://avsforum.com/avs-vb/showthread.php?t=1302559&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://avsforum.com/avs-vb/showthread.php?t=1302559&#39;, &#39;assasin  &#39;]);&#34; title=&#34;Assassin&#39;s Simple/Beginner HTPC Buying and Building Guide &#34;&gt;assasin  &lt;/a&gt;&amp;#8216;s &lt;strong&gt;Assassin&amp;#8217;s Simple/Beginner HTPC Buying and Building Guide&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;are my main sources. I learnt a lot from these guys in choosing the components. I ended up buying renethx&amp;#8217;s guide to pay my debt &lt;img src=&#34;http://pnarula.com/wp/wp-includes/images/smilies/simple-smile.png&#34; alt=&#34;:)&#34; class=&#34;wp-smiley&#34; style=&#34;height: 1em; max-height: 1em;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Why I love design</title>
+      <link>https://2pk.github.io/2012/03/why-i-love-design/</link>
+      <pubDate>Sun, 18 Mar 2012 15:40:14 +0000</pubDate>
+      
+      <guid>https://2pk.github.io/2012/03/why-i-love-design/</guid>
+      <description>&lt;p&gt;This post is actually about a electronic product, so what does the design has to do with it? Let me start with a bit of history. I am not sure where I got interested in design. But few months of my life where my neurons would have been lit up enough that light was coming thru my ears must be when I came to US. You see I grew up in the India of middle 80s (feeling old :)) where the design must have been stuck in the five year planning commissions. There were the Ambassdor cars, Philips radios, HMT watches and Colgate tooth paste and things would remain the same till may be mid 90s. If a product was supposed to work some way it would for a very long time. Even now if you open some of the Haldiram Namkeen products readily available in US you would see how little attention is paid to usability of the product where design matters a lot.&lt;/p&gt;
+
+&lt;p&gt;So 1st few months in US were great from that perspective. I am a very curious person so I would notice the design in everything like how the medicine bottles can only be opened in certain ways, numerous designs of opening the wooden doors meant for gardeners, how the swimming pool chairs have stops for various angle of reclines and dual sided boxee remote etc. That was then, I still notice these design things but the aha moments have sort of reduced. But every now and then something comes up and I go wow.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignright&#34; src=&#34;http://farm8.staticflickr.com/7192/6976696355_be46963b7d.jpg&#34; alt=&#34;Snap Circuits® Jr. 100 Experiments - Elenco SC-100&#34; width=&#34;400&#34; height=&#34;281&#34; /&gt;&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;p&gt;
+    Any DIYer worth their salt would have dabbled with electronic circuits. Remember when you discovered breadboards for wiring. Those Electronics for You issues for folks who grew up in India. So yesterday I had had to give a b&amp;#8217;day present and much to my lovely wife&amp;#8217;s discomfort I chose a geek present. It is called Snap Circuits SC100. What they have is similar to a bread board. But what I really LIKED and that&amp;#8217;s where the design bit comes &amp;#8211; is the way they have solved the problem of joining and creating various circuits. As is clued by the name they used the good old Snap Buttons for making the connection between various components. So a kid of 8-108 ( recommended age group on their box) won&amp;#8217;t have to fiddle with cutting the wires, joining and soldering etc. Very nice.
+  &lt;/p&gt;
+  
+  &lt;p&gt;
+    Essentially you have plastic breadboard with a grid. Instead of typical holes at the intersection of lines you have little plastic projections to which various components and giant plastic wires snap onto by using the buttons. They have a nice book with lots of projects starting from a simple circuit with a switch to on-off a LED to more complicated ones. Here is picture from flickr. Note the shiny buttons at the intersections. Who would have thought the buttons for your shirts will be used to make circuits. That is why &lt;a href=&#34;http://pnarula.com/2008/enabling-total-customer-experience/&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://pnarula.com/2008/enabling-total-customer-experience/&#39;, &#39;design matters&#39;]);&#34; &gt;design matters&lt;/a&gt;.
+  &lt;/p&gt;
+  
+  &lt;p&gt;
+    &amp;nbsp;
+  &lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bridges of bay area</title>
+      <link>https://2pk.github.io/2012/02/bridges-of-bay-area/</link>
+      <pubDate>Fri, 24 Feb 2012 02:01:24 +0000</pubDate>
+      
+      <guid>https://2pk.github.io/2012/02/bridges-of-bay-area/</guid>
+      <description>&lt;p&gt;Whenever you are flying over an area just after the takeoff or before landing, most of the time landscape below looks like a organized jumble of &lt;a href=&#34;https://2pk.github.io/images/bridges-of-bayarea.jpg&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;/images/bridges-of-bayarea.jpg&#39;, &#39;&#39;]);&#34; &gt;&lt;img class=&#34;alignright size-medium wp-image-377&#34; title=&#34;bridges-of-bayarea&#34; src=&#34;https://2pk.github.io/images/bridges-of-bayarea-225x300.jpg&#34; alt=&#34;&#34; width=&#34;225&#34; height=&#34;300&#34; /&gt;&lt;/a&gt;residential and commercial buildings with criss-crossing roads and highways. Since our mind is such a great pattern matcher, occasionally you recognize a landmark or building from up above and your mind feels happy.&lt;/p&gt;
+
+&lt;p&gt;But this morning in my regular early morning flights to Portland, OR I was in for a treat.  Few minutes after takeoff I noticed marshlands and thought we are going over the bay area parallel to 101 side of the bay. Then I noticed the first bridge and thought that must be San Mateo 92 bridge. But then the 2nd bridge became visible and I could make out that 1st one must be Dumbartan bridge and this one is San Mateo bridge. Now it became clear that flight took the path of flying over south bay, east bay parallel to 880 north. So next I could see bay bridge and SF downdown lights and said wow. Now my eyes started looking for Golden Gate and San Rafael bridge and lo and behold you could see them both. Infact you could see San Quentin prison lights at the end of San Rafael bridge.&lt;/p&gt;
+
+&lt;p&gt;I thought to my self the only bridge to be seen now is Benecia bridge near Fairfield. I could see two very close small parallel bridges but wasn&amp;#8217;t sure if they are the ones I am looking for. Since I cross Benecia bridge every two week I knew the landmarks to look for. When you are driving over the bridge you could see these big parked boats and I spotted them from the air. So it was the one I was looking for.  You could also see the orangish brown round structures of the oil refinery so it was double confirmed now.&lt;/p&gt;
+
+&lt;p&gt;Overall it was too much fun to see and locate all the bridges of the bay area, seemed I am part of this land. Right now flying over this incredibly beautiful landscape of snow studded mountains with a lake in between. Don&amp;#8217;t know where it is.&lt;/p&gt;
+
+&lt;p style=&#34;text-align: center;&#34;&gt;
+  &lt;a href=&#34;https://2pk.github.io/images/IMAG0500.jpg&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;/images/IMAG0500.jpg&#39;, &#39;&#39;]);&#34; &gt;&lt;img class=&#34;size-medium wp-image-378 aligncenter&#34; title=&#34;IMAG0500&#34; src=&#34;https://2pk.github.io/images/IMAG0500-300x168.jpg&#34; alt=&#34;&#34; width=&#34;300&#34; height=&#34;168&#34; /&gt;&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;OK even the Flight Attendant pointed at the beauty of this. We are flying over Mt Shasta and Crater Lake should be coming in about 10 minutes. See the pics. . One reason these were closer was because I was flying on this plane which flies at 20000 ft rather than the normal 30000 ft.  Will post this when I reach Portland.&lt;/p&gt;
+
+&lt;p style=&#34;text-align: center;&#34;&gt;
+  &lt;a href=&#34;https://2pk.github.io/images/IMAG0501.jpg&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;/images/IMAG0501.jpg&#39;, &#39;&#39;]);&#34; &gt;&lt;img class=&#34;size-medium wp-image-379 aligncenter&#34; title=&#34;IMAG0501&#34; src=&#34;https://2pk.github.io/images/IMAG0501-300x168.jpg&#34; alt=&#34;&#34; width=&#34;300&#34; height=&#34;168&#34; /&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>I have been slowly reading Thinking fast</title>
+      <link>https://2pk.github.io/2012/01/i-have-been-slowly-reading-thinking-fast/</link>
+      <pubDate>Mon, 30 Jan 2012 06:06:07 +0000</pubDate>
+      
+      <guid>https://2pk.github.io/2012/01/i-have-been-slowly-reading-thinking-fast/</guid>
+      <description>&lt;p&gt;I have been slowly reading ”Thinking fast and slow” by Daniel Kahneman. It is full of fun phrases like ” nonregressive assessment of weak evidence” still it is an important book in understanding of human biases and how we decide what we decide. I am sure toread it multiple times. One really good thing is you can pick any chapter and read it a they are independent.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BYO or otherwise Breaking the 10000 server</title>
+      <link>https://2pk.github.io/2011/12/byo-or-otherwise-breaking-the-10000-server/</link>
+      <pubDate>Sun, 18 Dec 2011 02:05:36 +0000</pubDate>
+      
+      <guid>https://2pk.github.io/2011/12/byo-or-otherwise-breaking-the-10000-server/</guid>
+      <description>&lt;p&gt;BYO or otherwise &amp;#8211; Breaking the 10000 server barrier via Gigaom&lt;/p&gt;
+
+&lt;p&gt;It’s in that 5 to 7.5MW area where the company starts having to know about the niceties of chillers and power systems, he said.&lt;/p&gt;
+
+&lt;p&gt;“When you break through the 10,000 server barrier — that’s when you start needing 3 to 5MW of power and now you’re getting into major facility costs where you have to have multiple diesel generators, and complex power and cooling systems. And it’s in that 10,000 to 100,000 server zone where costs soar. At that point, there aren’t many companies on the planet that can achieve the scale of an Amazon, a Rackspace, a Google, or a Microsoft. So why not trust your loads to the experts?&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://gigaom.com/cloud/do-byo-data-centers-make-sense-anymore&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://gigaom.com/cloud/do-byo-data-centers-make-sense-anymore&#39;, &#39;Do BYO data centers make sense anymore?&#39;]);&#34; &gt;Do BYO data centers make sense anymore?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Fgigaom2.files.wordpress.com%2F2011%2F12%2F2754478731_6cac6d30a8_z-e1323205331315.jpg%3Fw%3D476&#34; class=&#34;alignleft&#34; /&gt;In this era of cheap-and-reliable renta-data centers run by Amazon, Rackspace, and others, does it make sense for a company to build a new data center on it&amp;rsquo;s own? Unsurprisingly, Amazon&amp;rsquo;s own James H&amp;#8230;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Towards more lighted pixels It has been</title>
+      <link>https://2pk.github.io/2011/12/towards-more-lighted-pixels-it-has-been/</link>
+      <pubDate>Sun, 11 Dec 2011 19:43:54 +0000</pubDate>
+      
+      <guid>https://2pk.github.io/2011/12/towards-more-lighted-pixels-it-has-been/</guid>
+      <description>&lt;p&gt;Towards more lighted pixels&lt;/p&gt;
+
+&lt;p&gt;It has been more than three years that I have had a DSLR(T1i) My usage has been mostly family outings with friends and family. But only after these years of use I have come to terms with most of the controls in the camera except for flash. Last night we were at global wonder winterland (&lt;a href=&#34;http://www.globalwonderland.org/2011/&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://www.globalwonderland.org/2011/&#39;, &#39;http://www.globalwonderland.org/2011/&#39;]);&#34; &gt;&lt;a href=&#34;http://www.globalwonderland.org/2011/&#34;&gt;http://www.globalwonderland.org/2011/&lt;/a&gt;&lt;/a&gt;) where I didn&amp;rsquo;t have to think about setting to change and it came naturally. Still there was one instance where I was in hurry and I used the short cut to Auto  &lt;img src=&#34;http://pnarula.com/wp/wp-includes/images/smilies/simple-smile.png&#34; alt=&#34;:)&#34; class=&#34;wp-smiley&#34; style=&#34;height: 1em; max-height: 1em;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Another interesting thing that I have been noticing is the trend of everyone moving to DSLRs. At the global wonder winterland one could see more DSLRs and less P&amp;amp;Ses Ofcourse there were our iPhone photographers too.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/media/set/?set=a.10150434292678121.367985.734243120&amp;#038;type=1&amp;#038;l=b70cb2d0e3&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;https://www.facebook.com/media/set/?set=a.10150434292678121.367985.734243120&amp;#038;type=1&amp;#038;l=b70cb2d0e3&#39;, &#39;Global Wonder Winterland | Facebook&#39;]);&#34; &gt;Global Wonder Winterland | Facebook&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pound the rock and dig out a deep hole</title>
+      <link>https://2pk.github.io/2011/11/pound-the-rock-and-dig-out-a-deep-hole/</link>
+      <pubDate>Wed, 30 Nov 2011 08:04:57 +0000</pubDate>
+      
+      <guid>https://2pk.github.io/2011/11/pound-the-rock-and-dig-out-a-deep-hole/</guid>
+      <description>&lt;p&gt;While reading the book What I talk about when i talk about running, I came across this para about Talent vs Persistent hard work. This got to be the best lines I read this week&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;I think this viewpoint applies as well to the job of the novelist. Writers who are blessed with inborn talent can freely write novels no matter what they do—or don&amp;#8217;t do. Like water from a natural spring, the sentences just well up, and with little or no effort these writers can complete a work. Occasionally you&amp;#8217;ll find someone like that, but, unfortunately, that category wouldn&amp;#8217;t include me. I haven&amp;#8217;t spotted any springs nearby. I have to pound the rock with a chisel and dig out a deep hole before I can locate the source of creativity. To write a novel I have to drive myself hard physically and use a lot of time and effort. Every time I begin a new novel, I have to dredge out another new, deep hole. But as I&amp;#8217;ve sustained this kind of life over many years, I&amp;#8217;ve become quite efficient, both technically and physically, at opening a hole in the hard rock and locating a new water vein. So as soon as I notice one water source drying up, I can move on right away to another. If people who rely on a natural spring of talent suddenly find they&amp;#8217;ve exhausted their only source, they&amp;#8217;re in trouble.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

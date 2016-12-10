@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Beta Thoughts</title>
+    <link>https://2pk.github.io/tags/design/index.xml</link>
+    <description>Recent content on Beta Thoughts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://2pk.github.io/tags/design/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Enabling total customer experience</title>
+      <link>https://2pk.github.io/2008/10/enabling-total-customer-experience/</link>
+      <pubDate>Wed, 29 Oct 2008 23:39:46 +0000</pubDate>
+      
+      <guid>https://2pk.github.io/2008/10/enabling-total-customer-experience/</guid>
+      <description>&lt;p&gt;&lt;img class=&#34;alignright&#34; style=&#34;float: right;&#34; src=&#34;http://bks1.books.google.com/books?id=b1sLkqg394AC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;sig=ACfU3U0QH3UghgKSxESv8FS7JoDiuwas8g&#34; alt=&#34;Do you matter &#34; width=&#34;128&#34; height=&#34;206&#34; /&gt;I have just started reading &amp;#8220;Do you matter?&amp;#8221; by Apple design guru Robert Brunner and Stewart Emery. In the very first chapter I came across a paragraph which is just too good to be read alone&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The iPod is an iconic product of our time, a glorious example of design and business success. So close your eyes and imagine you&amp;#8217;re holding an iPod. Now take away iTunes, take away the ability to buy the song you like for 99¢ without having to pay $15 for a dozen more on a CD you don&amp;#8217;t want, lose the ability to create play lists, cut out the packaging, take out the ads, delete the Apple logo, and shutter all the Apple stores. The remaining question is, &amp;#8220;Do you still have an iPod?&amp;#8221; Yes, the physical product in your hand is exactly the same, but what do you have now? Really, what do you have?&lt;/p&gt;
+
+&lt;p&gt;Well, you have a nicely designed object. Is it an iPod still? No, it&amp;#8217;s not, because an iPod is a portal to a kaleidoscope of experience. An iPod is not just an object. The object is an icon that is a portal to an experience.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;So essentially what is being talked over here is a &lt;em&gt;total customer experience&lt;/em&gt;. Think of the product or service you provide and now think about the experience that is being created for your customers. For example for an enterprise software vendor it would be the software itself, how it was sold, how it was implemented, how is the maintenance support provided, how are trainings held for users, user conferences and these days how vibrant is the online community etc.&lt;/p&gt;
+
+&lt;p&gt;While all of this is good and very helpful way of making the product and services highly successful. There is one small lurking doubt I have in the corner of my mind. Apple very tightly controls almost all attributes about its offerings. Obviously it has been very successful in the consumer electronics space. But can this be extended everywhere where the producer/provider cannot have such a fine control for various reasons.&lt;/p&gt;
+
+&lt;p&gt;Hat Tip: I was introduced to the book by Core 77&amp;#8217;s design blog &lt;a href=&#34;http://www.core77.com/blog/book_reviews/do_you_matter_how_great_design_will_make_people_love_your_company_by_robert_brunner_stewart_emery_russ_hall_10990.asp&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://www.core77.com/blog/book_reviews/do_you_matter_how_great_design_will_make_people_love_your_company_by_robert_brunner_stewart_emery_russ_hall_10990.asp&#39;, &#39;this post&#39;]);&#34;  target=&#34;_blank&#34;&gt;this post&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

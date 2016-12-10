@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Beta Thoughts</title>
+    <link>https://2pk.github.io/categories/tech-tips/index.xml</link>
+    <description>Recent content on Beta Thoughts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://2pk.github.io/categories/tech-tips/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Everybody loves Documentation</title>
+      <link>https://2pk.github.io/2004/12/everybody-loves-documentation/</link>
+      <pubDate>Sat, 25 Dec 2004 16:14:03 +0000</pubDate>
+      
+      <guid>https://2pk.github.io/2004/12/everybody-loves-documentation/</guid>
+      <description>&lt;p&gt;Being a consultant you are constantly, though rightfully, asked by the clients to document everything before you leave. Now updating my personal blog I am my own client so why be partial towards oneself. Here is what I did to update Beta Thoughts to version 3.0.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Download &lt;a href=&#34;http://wordpress.org/nightly&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://wordpress.org/nightly&#39;, &#39;Latest Nightly&#39;]);&#34; &gt;Latest Nightly&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Adapt Ryan&amp;#8217;s &lt;a href=&#34;http://boren.nu/archives/2004/10/10/kubrick-130-rc2/&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://boren.nu/archives/2004/10/10/kubrick-130-rc2/&#39;, &#39;Kubrick Theme&#39;]);&#34; &gt;Kubrick Theme&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;a. style.css for width and color changes&lt;/p&gt;
+
+&lt;p&gt;b. header.php for header image width&lt;/p&gt;
+
+&lt;p&gt;c. Create pages for Links template and Archives template&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Introduce Navigation based on Listamatic&amp;#8217;s &lt;a href=&#34;http://css.maxdesign.com.au/listamatic/horizontal01.htm&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://css.maxdesign.com.au/listamatic/horizontal01.htm&#39;, &#39;Simple Horizontal List&#39;]);&#34; &gt;Simple Horizontal List&lt;/a&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;a. style.css for navlist&lt;/p&gt;
+
+&lt;p&gt;b. create a navigation.php and include it in header.php to show on every page&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Plugins
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;a. Brian&amp;#8217;s &lt;a href=&#34;http://meidell.dk/archives/2004/09/12/brians-latest-comments/&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://meidell.dk/archives/2004/09/12/brians-latest-comments/&#39;, &#39;Latest Comment&#39;]);&#34; &gt;Latest Comment&lt;/a&gt; for Activity in the sidebar &amp;#8211;&lt;/p&gt;
+
+&lt;p&gt;b. Nick Momriks &lt;a href=&#34;http://mtdewvirus.com/wp-hacks/&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://mtdewvirus.com/wp-hacks/&#39;, &#39;Recent Posts &#39;]);&#34; &gt;Recent Posts &lt;/a&gt;for Other Recent Posts in the sidebar&lt;/p&gt;
+
+&lt;p&gt;c. Alex&amp;#8217;s &lt;a href=&#34;http://www.w-a-s-a-b-i.com/archives/2004/05/26/wordpress-related-entries-plugin/&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://www.w-a-s-a-b-i.com/archives/2004/05/26/wordpress-related-entries-plugin/&#39;, &#39;Related Posts&#39;]);&#34; &gt;Related Posts&lt;/a&gt; on the Single Post page&lt;/p&gt;
+
+&lt;p&gt;d. Kitten&amp;#8217;s &lt;a href=&#34;http://blog.mookitty.co.uk/devblog/kittens-spam-words/&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://blog.mookitty.co.uk/devblog/kittens-spam-words/&#39;, &#39;Spam Words&#39;]);&#34; &gt;Spam Words&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;e. Matt&amp;#8217;s &lt;a href=&#34;http://wordpress.org/support/10/16642/&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://wordpress.org/support/10/16642/&#39;, &#39;Spam Stopgap&#39;]);&#34; &gt;Spam Stopgap&lt;/a&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Announce on WordPress Support &lt;a href=&#34;http://wordpress.org/support/11/19321/&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://wordpress.org/support/11/19321/&#39;, &#39;Forum&#39;]);&#34; &gt;Forum&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My wordpress install process</title>
+      <link>https://2pk.github.io/2004/12/my-wordpress-install-process/</link>
+      <pubDate>Sun, 05 Dec 2004 19:39:54 +0000</pubDate>
+      
+      <guid>https://2pk.github.io/2004/12/my-wordpress-install-process/</guid>
+      <description>&lt;p&gt;In the past year I have installed wordpress so many times that installation of it has become a very trivial process for me. Of course &lt;a href=&#34;http://planet.wordpress.org/&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://planet.wordpress.org/&#39;, &#39;wordpress developers &#39;]);&#34; &gt;wordpress developers &lt;/a&gt;have worked to make it this simple. Here is the process I follow&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Create the database for WP from cpanel.&lt;/li&gt;
+&lt;li&gt;Create the user for this DB or use an existing user. Assign ALL_PRIVILEGES to this user for the newly created database.&lt;/li&gt;
+&lt;li&gt;Download the latest WP nightly from wordpress site and extract it in a separate directory. This will create a wordpress directory.&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Change to this directory and copy wp-config-sample.php file as wp-config.php.&lt;/p&gt;
+
+&lt;p&gt;Edit wp-config.php file to reflect the settings for database, db user, and db password created above.
+&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Create a directory called languages in wp-include. Copy the hi.mo or language machine object file to the languages directory. This step is necessary if you want to have the wordpress in any other language than English.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Rename the wordpress directory the name you want for example â€˜blogâ€™.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Move this blog directory underneath your web document root.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Visit this page if the install.php links shows click on it.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;This will be step 1 â€“ give a name to your blog. Go to step 2.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Jot down the admin password from step 2. Your wordpress is installed now.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Login into wordpress using the admin/password. Change the password to your own password you can remember.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;At this point you can download plugins, themes etc and activate them. You can configure WordPress to your liking like changing the links, date format, permalinks etc.
+&amp;lt;/&amp;gt;&lt;/ol&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    
+    <item>
+      <title>PCWorld busting the biggest PC Myths</title>
+      <link>https://2pk.github.io/2004/07/pcworld-busting-the-biggest-pc-myths/</link>
+      <pubDate>Wed, 14 Jul 2004 06:49:46 +0000</pubDate>
+      
+      <guid>https://2pk.github.io/2004/07/pcworld-busting-the-biggest-pc-myths/</guid>
+      <description>&lt;p&gt;A nice tip from &lt;a href=&#34;http://www.pcworld.com/news/article/0,aid,116572,pg,3,00.asp&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://www.pcworld.com/news/article/0,aid,116572,pg,3,00.asp&#39;, &#39; PCWorld.com &amp;#8211; Busting the Biggest PC Myths&#39;]);&#34; &gt;PCWorld.com &amp;#8211; Busting the Biggest PC Myths&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;If you&amp;#8217;re using Windows XP, right-click the desktop, choose New, Shortcut, type &lt;strong&gt;shutdown -s -t 00&lt;/strong&gt;, click Next, give the shortcut a name (for example, Shutdown), and click Finish. Next time you need to shut down, click the shortcut icon.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
