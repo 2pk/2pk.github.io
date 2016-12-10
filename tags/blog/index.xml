@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Beta Thoughts</title>
-    <link>https://pnarula.com/tags/blog/index.xml</link>
+    <link>http://pnarula.com/tags/blog/index.xml</link>
     <description>Recent content on Beta Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://pnarula.com/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://pnarula.com/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Moving to static hosting</title>
-      <link>https://pnarula.com/2016/moving-to-static-hosting/</link>
+      <link>http://pnarula.com/2016/moving-to-static-hosting/</link>
       <pubDate>Fri, 09 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://pnarula.com/2016/moving-to-static-hosting/</guid>
+      <guid>http://pnarula.com/2016/moving-to-static-hosting/</guid>
       <description>&lt;p&gt;Having been on wordpress for more that twelve years it was time for this aging techie to try some thing new. The new shiny toy is static hosting on github. This is enable by super cool static site generator &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; The theme I am using is called Tranquil Peak and can be found on &lt;a href=&#34;https://themes.gohugo.io&#34;&gt;Hugo themes&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://pnarula.com/images/moving-wp-2-hugo.jpg&#34; alt=&#34;&#34; title=&#34;Moving from WP to Hugo&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://pnarula.com/images/moving-wp-2-hugo.jpg&#34; alt=&#34;&#34; title=&#34;Moving from WP to Hugo&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;So the journey for blogging platforms  has been Jroller -&amp;gt; Blogger -&amp;gt; MovableType -&amp;gt; Wordpress -&amp;gt; Hugo. Hosting a static site in this way has its own challange and should be played by techies only. For regular folks Wordpress is great. I will cover the tech side in another post (if that happened).&lt;/p&gt;</description>
     </item>

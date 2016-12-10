@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Beta Thoughts</title>
-    <link>https://pnarula.com/categories/tech-tips/index.xml</link>
+    <link>http://pnarula.com/categories/tech-tips/index.xml</link>
     <description>Recent content on Beta Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://pnarula.com/categories/tech-tips/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://pnarula.com/categories/tech-tips/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Everybody loves Documentation</title>
-      <link>https://pnarula.com/2004/everybody-loves-documentation/</link>
+      <link>http://pnarula.com/2004/everybody-loves-documentation/</link>
       <pubDate>Sat, 25 Dec 2004 16:14:03 +0000</pubDate>
       
-      <guid>https://pnarula.com/2004/everybody-loves-documentation/</guid>
+      <guid>http://pnarula.com/2004/everybody-loves-documentation/</guid>
       <description>&lt;p&gt;Being a consultant you are constantly, though rightfully, asked by the clients to document everything before you leave. Now updating my personal blog I am my own client so why be partial towards oneself. Here is what I did to update Beta Thoughts to version 3.0.&lt;/p&gt;
 
 &lt;ol&gt;
@@ -60,10 +60,10 @@
     
     <item>
       <title>My wordpress install process</title>
-      <link>https://pnarula.com/2004/my-wordpress-install-process/</link>
+      <link>http://pnarula.com/2004/my-wordpress-install-process/</link>
       <pubDate>Sun, 05 Dec 2004 19:39:54 +0000</pubDate>
       
-      <guid>https://pnarula.com/2004/my-wordpress-install-process/</guid>
+      <guid>http://pnarula.com/2004/my-wordpress-install-process/</guid>
       <description>&lt;p&gt;In the past year I have installed wordpress so many times that installation of it has become a very trivial process for me. Of course &lt;a href=&#34;http://planet.wordpress.org/&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://planet.wordpress.org/&#39;, &#39;wordpress developers &#39;]);&#34; &gt;wordpress developers &lt;/a&gt;have worked to make it this simple. Here is the process I follow&lt;/p&gt;
 
 &lt;ol&gt;
@@ -97,10 +97,10 @@
     
     <item>
       <title>PCWorld busting the biggest PC Myths</title>
-      <link>https://pnarula.com/2004/pcworld-busting-the-biggest-pc-myths/</link>
+      <link>http://pnarula.com/2004/pcworld-busting-the-biggest-pc-myths/</link>
       <pubDate>Wed, 14 Jul 2004 06:49:46 +0000</pubDate>
       
-      <guid>https://pnarula.com/2004/pcworld-busting-the-biggest-pc-myths/</guid>
+      <guid>http://pnarula.com/2004/pcworld-busting-the-biggest-pc-myths/</guid>
       <description>&lt;p&gt;A nice tip from &lt;a href=&#34;http://www.pcworld.com/news/article/0,aid,116572,pg,3,00.asp&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://www.pcworld.com/news/article/0,aid,116572,pg,3,00.asp&#39;, &#39; PCWorld.com &amp;#8211; Busting the Biggest PC Myths&#39;]);&#34; &gt;PCWorld.com &amp;#8211; Busting the Biggest PC Myths&lt;/a&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
