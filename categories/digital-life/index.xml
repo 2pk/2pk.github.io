@@ -9,6 +9,18 @@
     <atom:link href="https://pnarula.com/categories/digital-life/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Steven Sinofsky on organization design</title>
+      <link>https://pnarula.com/2016/steven-sinofsky-on-organization-design/</link>
+      <pubDate>Sat, 10 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://pnarula.com/2016/steven-sinofsky-on-organization-design/</guid>
+      <description>&lt;p&gt;Steven Sinofsky of a16z in an &lt;a href=&#34;https://medium.learningbyshipping.com/functional-versus-unit-organizations-6b82bfbaa57#.a4reg9rg0&#34;&gt;epic post&lt;/a&gt; on organization design comparing functional orgs (sales, finance) vs Unit orgs (Product 1 Unit, Product 2 Unit etc)
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;1/4 Wrote a (long) post on org design, comparing functional v. unit orgs, and what I learned along the way. &lt;a href=&#34;https://t.co/mQYPFxwBCk&#34;&gt;https://t.co/mQYPFxwBCk&lt;/a&gt;&lt;/p&gt;&amp;mdash; Steven Sinofsky ॐ (@stevesi) &lt;a href=&#34;https://twitter.com/stevesi/status/806002642296020996&#34;&gt;December 6, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Moving to static hosting</title>
       <link>https://pnarula.com/2016/moving-to-static-hosting/</link>
       <pubDate>Fri, 09 Dec 2016 00:00:00 +0000</pubDate>
@@ -369,18 +381,6 @@
 &lt;p style=&#34;text-align: center;&#34;&gt;
   &lt;a href=&#34;http://www.amazon.com/dp/159420182X&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://www.amazon.com/dp/159420182X&#39;, &#39;&#39;]);&#34; &gt;&lt;img class=&#34;size-full wp-image-256 aligncenter&#34; title=&#34;amazon-sccl&#34; src=&#34;http://pankajnarula.webfactional.com/wp-content/uploads/2009/04/amazon-sccl.jpg&#34; alt=&#34;amazon-sccl&#34; width=&#34;447&#34; height=&#34;277&#34; /&gt;&lt;/a&gt;
 &lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Livemints four values of sensex</title>
-      <link>https://pnarula.com/2008/livemints-four-values-of-sensex/</link>
-      <pubDate>Fri, 14 Nov 2008 03:08:00 +0000</pubDate>
-      
-      <guid>https://pnarula.com/2008/livemints-four-values-of-sensex/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://pankajnarula.webfactional.com/wp-content/uploads/2008/11/livemint-bse.jpg&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://pankajnarula.webfactional.com/wp-content/uploads/2008/11/livemint-bse.jpg&#39;, &#39;&#39;]);&#34; &gt;&lt;img class=&#34;alignnone size-full wp-image-227&#34; title=&#34;livemint-bse&#34; src=&#34;http://pankajnarula.webfactional.com/wp-content/uploads/2008/11/livemint-bse.jpg&#34; alt=&#34;livemint-bse&#34; width=&#34;501&#34; height=&#34;243&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://livemint.com&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://livemint.com&#39;, &#39;Livemint &#39;]);&#34; &gt;Livemint &lt;/a&gt;has become quite popular during the last year or two of its existence. But sometimes funny things happen on the first page. Example in case is the screenshot above taken on  Nov 14th about 12:30pm IST. This image shows 4 different values of the BSE sensex index. Which one should I believe? While I can understand why it would happen, but I think it should be embarassing for the site owners.&lt;/p&gt;
 </description>
     </item>
     

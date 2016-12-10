@@ -6,8 +6,20 @@
     <description>Recent content on Beta Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Dec 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Dec 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://pnarula.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Steven Sinofsky on organization design</title>
+      <link>https://pnarula.com/2016/steven-sinofsky-on-organization-design/</link>
+      <pubDate>Sat, 10 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://pnarula.com/2016/steven-sinofsky-on-organization-design/</guid>
+      <description>&lt;p&gt;Steven Sinofsky of a16z in an &lt;a href=&#34;https://medium.learningbyshipping.com/functional-versus-unit-organizations-6b82bfbaa57#.a4reg9rg0&#34;&gt;epic post&lt;/a&gt; on organization design comparing functional orgs (sales, finance) vs Unit orgs (Product 1 Unit, Product 2 Unit etc)
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;1/4 Wrote a (long) post on org design, comparing functional v. unit orgs, and what I learned along the way. &lt;a href=&#34;https://t.co/mQYPFxwBCk&#34;&gt;https://t.co/mQYPFxwBCk&lt;/a&gt;&lt;/p&gt;&amp;mdash; Steven Sinofsky ॐ (@stevesi) &lt;a href=&#34;https://twitter.com/stevesi/status/806002642296020996&#34;&gt;December 6, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Moving to static hosting</title>
@@ -388,22 +400,6 @@
 &lt;p&gt;&lt;a href=&#34;http://gigaom.com/cloud/do-byo-data-centers-make-sense-anymore&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://gigaom.com/cloud/do-byo-data-centers-make-sense-anymore&#39;, &#39;Do BYO data centers make sense anymore?&#39;]);&#34; &gt;Do BYO data centers make sense anymore?&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Fgigaom2.files.wordpress.com%2F2011%2F12%2F2754478731_6cac6d30a8_z-e1323205331315.jpg%3Fw%3D476&#34; class=&#34;alignleft&#34; /&gt;In this era of cheap-and-reliable renta-data centers run by Amazon, Rackspace, and others, does it make sense for a company to build a new data center on it&amp;rsquo;s own? Unsurprisingly, Amazon&amp;rsquo;s own James H&amp;#8230;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Towards more lighted pixels It has been</title>
-      <link>https://pnarula.com/2011/towards-more-lighted-pixels-it-has-been/</link>
-      <pubDate>Sun, 11 Dec 2011 19:43:54 +0000</pubDate>
-      
-      <guid>https://pnarula.com/2011/towards-more-lighted-pixels-it-has-been/</guid>
-      <description>&lt;p&gt;Towards more lighted pixels&lt;/p&gt;
-
-&lt;p&gt;It has been more than three years that I have had a DSLR(T1i) My usage has been mostly family outings with friends and family. But only after these years of use I have come to terms with most of the controls in the camera except for flash. Last night we were at global wonder winterland (&lt;a href=&#34;http://www.globalwonderland.org/2011/&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://www.globalwonderland.org/2011/&#39;, &#39;http://www.globalwonderland.org/2011/&#39;]);&#34; &gt;&lt;a href=&#34;http://www.globalwonderland.org/2011/&#34;&gt;http://www.globalwonderland.org/2011/&lt;/a&gt;&lt;/a&gt;) where I didn&amp;rsquo;t have to think about setting to change and it came naturally. Still there was one instance where I was in hurry and I used the short cut to Auto  &lt;img src=&#34;http://pnarula.com/wp/wp-includes/images/smilies/simple-smile.png&#34; alt=&#34;:)&#34; class=&#34;wp-smiley&#34; style=&#34;height: 1em; max-height: 1em;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Another interesting thing that I have been noticing is the trend of everyone moving to DSLRs. At the global wonder winterland one could see more DSLRs and less P&amp;amp;Ses Ofcourse there were our iPhone photographers too.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/media/set/?set=a.10150434292678121.367985.734243120&amp;#038;type=1&amp;#038;l=b70cb2d0e3&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;https://www.facebook.com/media/set/?set=a.10150434292678121.367985.734243120&amp;#038;type=1&amp;#038;l=b70cb2d0e3&#39;, &#39;Global Wonder Winterland | Facebook&#39;]);&#34; &gt;Global Wonder Winterland | Facebook&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

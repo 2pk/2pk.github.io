@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Beta Thoughts</title>
+    <link>https://pnarula.com/tags/twitter/index.xml</link>
+    <description>Recent content on Beta Thoughts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://pnarula.com/tags/twitter/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Steven Sinofsky on organization design</title>
+      <link>https://pnarula.com/2016/steven-sinofsky-on-organization-design/</link>
+      <pubDate>Sat, 10 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://pnarula.com/2016/steven-sinofsky-on-organization-design/</guid>
+      <description>&lt;p&gt;Steven Sinofsky of a16z in an &lt;a href=&#34;https://medium.learningbyshipping.com/functional-versus-unit-organizations-6b82bfbaa57#.a4reg9rg0&#34;&gt;epic post&lt;/a&gt; on organization design comparing functional orgs (sales, finance) vs Unit orgs (Product 1 Unit, Product 2 Unit etc)
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;1/4 Wrote a (long) post on org design, comparing functional v. unit orgs, and what I learned along the way. &lt;a href=&#34;https://t.co/mQYPFxwBCk&#34;&gt;https://t.co/mQYPFxwBCk&lt;/a&gt;&lt;/p&gt;&amp;mdash; Steven Sinofsky ॐ (@stevesi) &lt;a href=&#34;https://twitter.com/stevesi/status/806002642296020996&#34;&gt;December 6, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
