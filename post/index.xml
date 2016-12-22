@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Post-rsses on Beta Thoughts</title>
-    <link>http://pnarula.com/post/index.xml</link>
+    <link>https://pnarula.com/post/index.xml</link>
     <description>Recent content in Post-rsses on Beta Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 10 Dec 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://pnarula.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pnarula.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Steven Sinofsky on organization design</title>
-      <link>http://pnarula.com/2016/steven-sinofsky-on-organization-design/</link>
+      <link>https://pnarula.com/2016/steven-sinofsky-on-organization-design/</link>
       <pubDate>Sat, 10 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://pnarula.com/2016/steven-sinofsky-on-organization-design/</guid>
+      <guid>https://pnarula.com/2016/steven-sinofsky-on-organization-design/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/sinofsky&#34;&gt;Steven Sinofsky&lt;/a&gt; of a16z in an &lt;a href=&#34;https://medium.learningbyshipping.com/functional-versus-unit-organizations-6b82bfbaa57#.a4reg9rg0&#34;&gt;epic post&lt;/a&gt; on organization design comparing functional orgs (sales, finance, engineering etc) vs Unit orgs (Product 1 Unit, Product 2 Unit etc) acting as businesses within business.
 
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;1/4 Wrote a (long) post on org design, comparing functional v. unit orgs, and what I learned along the way. &lt;a href=&#34;https://t.co/mQYPFxwBCk&#34;&gt;https://t.co/mQYPFxwBCk&lt;/a&gt;&lt;/p&gt;&amp;mdash; Steven Sinofsky ॐ (@stevesi) &lt;a href=&#34;https://twitter.com/stevesi/status/806002642296020996&#34;&gt;December 6, 2016&lt;/a&gt;&lt;/blockquote&gt;
@@ -23,23 +23,23 @@
     
     <item>
       <title>Moving to static hosting</title>
-      <link>http://pnarula.com/2016/moving-to-static-hosting/</link>
+      <link>https://pnarula.com/2016/moving-to-static-hosting/</link>
       <pubDate>Fri, 09 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://pnarula.com/2016/moving-to-static-hosting/</guid>
+      <guid>https://pnarula.com/2016/moving-to-static-hosting/</guid>
       <description>&lt;p&gt;Having been on wordpress for more that twelve years it was time for this aging techie to try some thing new. The new shiny toy is static hosting on github. This is enable by super cool static site generator &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; The theme I am using is called Tranquil Peak and can be found on &lt;a href=&#34;https://themes.gohugo.io&#34;&gt;Hugo themes&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://pnarula.com/images/moving-wp-2-hugo.jpg&#34; alt=&#34;&#34; title=&#34;Moving from WP to Hugo&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pnarula.com/images/moving-wp-2-hugo.jpg&#34; alt=&#34;&#34; title=&#34;Moving from WP to Hugo&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;So the journey for blogging platforms  has been Jroller -&amp;gt; Blogger -&amp;gt; MovableType -&amp;gt; Wordpress -&amp;gt; Hugo. Hosting a static site in this way has its own challange and should be played by techies only. For regular folks Wordpress is great. I will cover the tech side in another post (if that happened).&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Making of the wordpress empire</title>
-      <link>http://pnarula.com/2015/making-of-the-wordpress-empire/</link>
+      <link>https://pnarula.com/2015/making-of-the-wordpress-empire/</link>
       <pubDate>Tue, 24 Nov 2015 06:36:22 +0000</pubDate>
       
-      <guid>http://pnarula.com/2015/making-of-the-wordpress-empire/</guid>
+      <guid>https://pnarula.com/2015/making-of-the-wordpress-empire/</guid>
       <description>&lt;p&gt;It is interesting to see the new architecture of wordpress. WordPress.com and self-hosted wordpress is all REST enabled now. There is a new desktop client. You can even manage your self hosted blogs from wordpress.com. They even use the new js flavor of the times &amp;#8211; react ( I love react as well). From techie perspective it is quite nice.&lt;/p&gt;
 
 &lt;p&gt;What I would hate to see is that now that I am lured into logging into wordpress.com As a self-hosted blog for 10-11 years I have never had the need to login to wordpress.com. So now all self-hosted blogs dial home. This is quite good from commercial perspectives wherein Automattic would get the chance to see and maybe interact in auto-matt-ic way. If that happens I hope it would be quite non-intrusive.&lt;/p&gt;
@@ -50,20 +50,20 @@
     
     <item>
       <title>SITsv SAP Inside Track Silicon Valley 2015</title>
-      <link>http://pnarula.com/2015/sitsv-sap-inside-track-silicon-valley-2015/</link>
+      <link>https://pnarula.com/2015/sitsv-sap-inside-track-silicon-valley-2015/</link>
       <pubDate>Fri, 11 Sep 2015 06:46:18 +0000</pubDate>
       
-      <guid>http://pnarula.com/2015/sitsv-sap-inside-track-silicon-valley-2015/</guid>
+      <guid>https://pnarula.com/2015/sitsv-sap-inside-track-silicon-valley-2015/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Join &lt;/strong&gt;@rwang0 @finnern @aiazkazi @njasta @moyalynne at SITsv at HanaHaus in Palo Alto.  I will be speaking on SAP HANA Cloud Platform. The event is free. Register &lt;a href=&#34;https://www.eventbrite.com/e/sap-inside-track-silicon-valley-2015-sitsv-tickets-17596205725&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;https://www.eventbrite.com/e/sap-inside-track-silicon-valley-2015-sitsv-tickets-17596205725&#39;, &#39;here&#39;]);&#34; &gt;here&lt;/a&gt;. More info and agenda on &lt;a href=&#34;http://wiki.scn.sap.com/wiki/display/events/SAP+Inside+Track+Silicon+Valley+2015%3A+%23SITsv&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://wiki.scn.sap.com/wiki/display/events/SAP+Inside+Track+Silicon+Valley+2015%3A+%23SITsv&#39;, &#39;SCN&#39;]);&#34; &gt;SCN&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Is it really Bubble 2 dot 0</title>
-      <link>http://pnarula.com/2015/is-it-really-bubble-2-dot-0/</link>
+      <link>https://pnarula.com/2015/is-it-really-bubble-2-dot-0/</link>
       <pubDate>Tue, 08 Sep 2015 06:01:42 +0000</pubDate>
       
-      <guid>http://pnarula.com/2015/is-it-really-bubble-2-dot-0/</guid>
+      <guid>https://pnarula.com/2015/is-it-really-bubble-2-dot-0/</guid>
       <description>&lt;p&gt;Lately there has been a lot of chatter about bubble in Silicon Valley. This &lt;a href=&#34;http://www.vanityfair.com/news/2015/08/is-silicon-valley-in-another-bubble&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://www.vanityfair.com/news/2015/08/is-silicon-valley-in-another-bubble&#39;, &#39;article&#39;]);&#34; &gt;article&lt;/a&gt; by Nick Bilton in vanity fair is the latest in that chatter. No doubt there is a preponderance of getting oneself in The Unicorn Club. The burn rates among startups are high. @pmarca raised the &lt;a href=&#34;https://twitter.com/pmarca/status/515216011277398016&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;https://twitter.com/pmarca/status/515216011277398016&#39;, &#39;cash burn concern &#39;]);&#34; &gt;cash burn concern &lt;/a&gt;an year ago but has been &lt;a href=&#34;https://twitter.com/pmarca/status/636307488720027648&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;https://twitter.com/pmarca/status/636307488720027648&#39;, &#39;mocking end of world&#39;]);&#34; &gt;mocking end of world&lt;/a&gt; on all the recent dips. Even the fine folks at Hacker News are discussing &lt;a href=&#34;https://news.ycombinator.com/item?id=9712868&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;https://news.ycombinator.com/item?id=9712868&#39;, &#39;this&#39;]);&#34; &gt;this&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;May be it is. Having lived thru the .com bust my observations in favor and against are&lt;/p&gt;
@@ -90,11 +90,11 @@
     
     <item>
       <title>Cloud pricing and pay as you go model</title>
-      <link>http://pnarula.com/2013/cloud-pricing-and-pay-as-you-go-model/</link>
+      <link>https://pnarula.com/2013/cloud-pricing-and-pay-as-you-go-model/</link>
       <pubDate>Sat, 25 May 2013 07:23:50 +0000</pubDate>
       
-      <guid>http://pnarula.com/2013/cloud-pricing-and-pay-as-you-go-model/</guid>
-      <description>&lt;p&gt;&lt;img class=&#34;size-full wp-image-441 aligncenter&#34; alt=&#34;cloud-pricing&#34; src=&#34;http://pnarula.com/images/cloud-pricing.png&#34; width=&#34;393&#34; height=&#34;223&#34; /&gt;&lt;/p&gt;
+      <guid>https://pnarula.com/2013/cloud-pricing-and-pay-as-you-go-model/</guid>
+      <description>&lt;p&gt;&lt;img class=&#34;size-full wp-image-441 aligncenter&#34; alt=&#34;cloud-pricing&#34; src=&#34;https://pnarula.com/images/cloud-pricing.png&#34; width=&#34;393&#34; height=&#34;223&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Fellow cloudman Matthias Steiner tweeted about pay as you go model and clouds&lt;/p&gt;
 
@@ -124,7 +124,7 @@
 
 &lt;p&gt;This concept of what someone is ready to pay for is a great one. I mean if for the same necktie one person pays $50 and the other would gladly pay $80, I would like to sell accordingly. But how do I know who would pay how much. This is a really hard problem to solve and is the reason you see a regular cup of coffee for $2.00 while the white caramel macchiato with soy milk costs $4.50 at your favorite coffee joint. You don&amp;#8217;t think that extra stuff costs the seller $2.50. It is their way of segmenting the customer and see who would pay more or who derives how much value.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://pnarula.com/assets/coffee_pricing.png&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://pnarula.com/assets/coffee_pricing.png&#39;, &#39;&#39;]);&#34; &gt;&lt;img class=&#34;aligncenter size-full wp-image-440&#34; alt=&#34;coffee_pricing&#34; src=&#34;http://pnarula.com/images/coffee_pricing.png&#34; width=&#34;565&#34; height=&#34;186&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://pnarula.com/assets/coffee_pricing.png&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://pnarula.com/assets/coffee_pricing.png&#39;, &#39;&#39;]);&#34; &gt;&lt;img class=&#34;aligncenter size-full wp-image-440&#34; alt=&#34;coffee_pricing&#34; src=&#34;https://pnarula.com/images/coffee_pricing.png&#34; width=&#34;565&#34; height=&#34;186&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;The above concept works great where perceived value can be shown by adding attributes or services like models of cars, versions of software. But there are markets where doing this segmentation is a little hard. Utility markets for water, electricity and gas are great example of this. One Kwh hour of electricity is indistinguishable from another (though you can still bring in time of the day, how it was produced for some fun). These are the markets that are ripe for pay as you go. You could have tiered pricing over here as well. In cloud computing IaaS and PaaS models (compute units, storage, API calls etc) closely remember this utility model and we see similar pricing models as well.&lt;/p&gt;
 
@@ -144,10 +144,10 @@
     
     <item>
       <title>Bay area at its best Thanks to Bjorn Goerke</title>
-      <link>http://pnarula.com/2013/bay-area-at-its-best-thanks-to-bjorn-goerke/</link>
+      <link>https://pnarula.com/2013/bay-area-at-its-best-thanks-to-bjorn-goerke/</link>
       <pubDate>Tue, 02 Apr 2013 22:09:22 +0000</pubDate>
       
-      <guid>http://pnarula.com/2013/bay-area-at-its-best-thanks-to-bjorn-goerke/</guid>
+      <guid>https://pnarula.com/2013/bay-area-at-its-best-thanks-to-bjorn-goerke/</guid>
       <description>&lt;p&gt;Bay area at its best. Thanks to Bjorn Goerke for quoting this by Steinbeck which is so apt ( &lt;a href=&#34;http://bgoerke.wordpress.com/2013/04/02/ive-never-seen-her-more-lovely/&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://bgoerke.wordpress.com/2013/04/02/ive-never-seen-her-more-lovely/&#39;, &#39;http://bgoerke.wordpress.com/2013/04/02/ive-never-seen-her-more-lovely/&#39;]);&#34;  class=&#34;ot-anchor&#34; rel=&#34;nofollow&#34;&gt;&lt;a href=&#34;http://bgoerke.wordpress.com/2013/04/02/ive-never-seen-her-more-lovely/&#34;&gt;http://bgoerke.wordpress.com/2013/04/02/ive-never-seen-her-more-lovely/&lt;/a&gt;&lt;/a&gt; )&lt;/p&gt;
 
 &lt;p&gt;When I was a child growing up in Salinas we called San Francisco “the City”. Of course it was the only city we knew, but I still think of it as the City, and so does everyone else who has ever associated with it. A strange and exclusive word is “city”. Besides San Francisco, only small sections of London and Rome stay in the mind as the City. New Yorkers say they go to town. Paris has no title but Paris. Mexico City is the Capital.&lt;/p&gt;
@@ -162,13 +162,13 @@
     
     <item>
       <title>Mystery of green circles</title>
-      <link>http://pnarula.com/2012/mystery-of-green-circles/</link>
+      <link>https://pnarula.com/2012/mystery-of-green-circles/</link>
       <pubDate>Sat, 05 May 2012 18:00:11 +0000</pubDate>
       
-      <guid>http://pnarula.com/2012/mystery-of-green-circles/</guid>
+      <guid>https://pnarula.com/2012/mystery-of-green-circles/</guid>
       <description>&lt;p&gt;Often when I am travelling I see these giant green circles on the ground. They look beautiful and is clear are man made. But what is going on. I have seen them all over the US, on the west coast, while flying to east or south you can see them.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://pnarula.com/2012-05-05-10-36-15_AMERICA-REVEALED-In-Search-of-the-Traditional-Farm-PBS-YouTube.png&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://pnarula.com/assets/2012-05-05-10-36-15_AMERICA-REVEALED-In-Search-of-the-Traditional-Farm-PBS-YouTube.png&#39;, &#39;&#39;]);&#34; &gt;&lt;img class=&#34;aligncenter size-medium wp-image-418&#34; title=&#34;2012-05-05 10-36-15_AMERICA REVEALED  In Search of the Traditional Farm  PBS - YouTube&#34; src=&#34;http://pnarula.com/images/2012-05-05-10-36-15_AMERICA-REVEALED-In-Search-of-the-Traditional-Farm-PBS-YouTube-300x166.png&#34; alt=&#34;&#34; width=&#34;300&#34; height=&#34;166&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://pnarula.com/2012-05-05-10-36-15_AMERICA-REVEALED-In-Search-of-the-Traditional-Farm-PBS-YouTube.png&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://pnarula.com/assets/2012-05-05-10-36-15_AMERICA-REVEALED-In-Search-of-the-Traditional-Farm-PBS-YouTube.png&#39;, &#39;&#39;]);&#34; &gt;&lt;img class=&#34;aligncenter size-medium wp-image-418&#34; title=&#34;2012-05-05 10-36-15_AMERICA REVEALED  In Search of the Traditional Farm  PBS - YouTube&#34; src=&#34;https://pnarula.com/images/2012-05-05-10-36-15_AMERICA-REVEALED-In-Search-of-the-Traditional-Farm-PBS-YouTube-300x166.png&#34; alt=&#34;&#34; width=&#34;300&#34; height=&#34;166&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Finally the mystery was solved when I was watching &amp;#8220;&lt;a href=&#34;http://www.pbs.org/america-revealed/episode/1/&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://www.pbs.org/america-revealed/episode/1/&#39;, &#39;America Revealed &amp;#8211; Food Machine&amp;#8221; by PBS&#39;]);&#34; title=&#34;America Revealed - The food machine&#34;  target=&#34;_blank&#34;&gt;America Revealed &amp;#8211; Food Machine&amp;#8221; by PBS&lt;/a&gt;. These are agriculture fields or food factories  &lt;img src=&#34;http://pnarula.com/wp/wp-includes/images/smilies/simple-smile.png&#34; alt=&#34;:)&#34; class=&#34;wp-smiley&#34; style=&#34;height: 1em; max-height: 1em;&#34; /&gt;irriagated by something called central pivot irrigation system. Here is a difintion from &lt;a href=&#34;http://en.wikipedia.org/wiki/Center_pivot_irrigation&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://en.wikipedia.org/wiki/Center_pivot_irrigation&#39;, &#39;wikipedia&#39;]);&#34; title=&#34;Center Pivot Irrigation&#34;  target=&#34;_blank&#34;&gt;wikipedia&lt;/a&gt;&lt;/p&gt;
 
@@ -198,10 +198,10 @@
     
     <item>
       <title>Building HTPC 3 Capabilities and big picture</title>
-      <link>http://pnarula.com/2012/building-htpc-3-capabilities-and-big-picture/</link>
+      <link>https://pnarula.com/2012/building-htpc-3-capabilities-and-big-picture/</link>
       <pubDate>Sun, 08 Apr 2012 19:45:25 +0000</pubDate>
       
-      <guid>http://pnarula.com/2012/building-htpc-3-capabilities-and-big-picture/</guid>
+      <guid>https://pnarula.com/2012/building-htpc-3-capabilities-and-big-picture/</guid>
       <description>&lt;p&gt;_(This is the last of this HTPC build series do read the &lt;a href=&#34;http://pnarula.com/2012/htpc-1/&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://pnarula.com/2012/htpc-1/&#39;, &#39;Part 1 &amp;#8211; HTPC Research&#39;]);&#34; &gt;Part 1 &amp;#8211; HTPC Research&lt;/a&gt; and &lt;a href=&#34;http://pnarula.com/2012/htpc-2/&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://pnarula.com/2012/htpc-2/&#39;, &#39;Part 2 &amp;#8211; HTPC Build &#39;]);&#34; &gt;Part 2 &amp;#8211; HTPC Build &lt;/a&gt;)_&lt;/p&gt;
 
 &lt;p&gt;After researching for almost 3 years HTPC was finally built and is the center of my audio video setup. It is truly a one-box-to-rule-the-all solution. I was able to replace the following AV components with this single box&lt;/p&gt;
@@ -216,7 +216,7 @@
 
 &lt;p&gt;Here is a photo I posted on facebook&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://pnarula.com/assets/htpc.jpg&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;/images/htpc.jpg&#39;, &#39;&#39;]);&#34; &gt;&lt;img class=&#34;aligncenter size-medium wp-image-402&#34; title=&#34;htpc&#34; src=&#34;http://pnarula.com/images/htpc-300x268.jpg&#34; alt=&#34;&#34; width=&#34;300&#34; height=&#34;268&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://pnarula.com/assets/htpc.jpg&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;/images/htpc.jpg&#39;, &#39;&#39;]);&#34; &gt;&lt;img class=&#34;aligncenter size-medium wp-image-402&#34; title=&#34;htpc&#34; src=&#34;https://pnarula.com/images/htpc-300x268.jpg&#34; alt=&#34;&#34; width=&#34;300&#34; height=&#34;268&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;My AV Setup now includes &amp;#8211; HTPC, audio receiver, RF based keyboard and remote, Harmony remote. HTPC provides the following capabilities&lt;/p&gt;
 
@@ -237,10 +237,10 @@
     
     <item>
       <title>Building HTPC 2 Components</title>
-      <link>http://pnarula.com/2012/building-htpc-2-components/</link>
+      <link>https://pnarula.com/2012/building-htpc-2-components/</link>
       <pubDate>Sun, 08 Apr 2012 19:45:06 +0000</pubDate>
       
-      <guid>http://pnarula.com/2012/building-htpc-2-components/</guid>
+      <guid>https://pnarula.com/2012/building-htpc-2-components/</guid>
       <description>&lt;p&gt;_(This is the second part of this HTPC build series do read the &lt;a href=&#34;http://pnarula.com/2012/htpc-1/&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://pnarula.com/2012/htpc-1/&#39;, &#39;Part 1 &amp;#8211; HTPC Research&#39;]);&#34; &gt;Part 1 &amp;#8211; HTPC Research&lt;/a&gt; and &lt;a href=&#34;http://pnarula.com/2012/htpc-3/&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://pnarula.com/2012/htpc-3/&#39;, &#39;Part 3 &amp;#8211; HTPC Final &#39;]);&#34; &gt;Part 3 &amp;#8211; HTPC Final &lt;/a&gt;)_&lt;/p&gt;
 
 &lt;p&gt;After doing a lot of research I come up with the final list of components. I choose to go for SSD for the OS and programs drive. Really like the choice of Silver Stone GD06 case I made. But that required me to buy a modular power supply and shorter cable set. I was able to repurpose one of my external 1TB USB drives by opening it and using it as a main storage. Keyboard/Remote choice was based on online reviews. iPazzport is a good looking small form factor RF based remote. Performance is average. My best investment was the Ceton infinity card that allows me to take my cable tv wire into the PC and&lt;/p&gt;
@@ -264,23 +264,23 @@
 
 &lt;p&gt;Here is a photo of all the components&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://pnarula.com/images/htpc-components.jpg&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;/images/htpc-components.jpg&#39;, &#39;&#39;]);&#34; &gt;&lt;img class=&#34;aligncenter size-large wp-image-389&#34; title=&#34;htpc-components&#34; src=&#34;http://pnarula.com/images/htpc-components-1024x682.jpg&#34; alt=&#34;&#34; width=&#34;450&#34; height=&#34;299&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://pnarula.com/images/htpc-components.jpg&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;/images/htpc-components.jpg&#39;, &#39;&#39;]);&#34; &gt;&lt;img class=&#34;aligncenter size-large wp-image-389&#34; title=&#34;htpc-components&#34; src=&#34;https://pnarula.com/images/htpc-components-1024x682.jpg&#34; alt=&#34;&#34; width=&#34;450&#34; height=&#34;299&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 
 &lt;p&gt;Silverstone GD06 case&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://pnarula.com/images/htpc-silverstone-gd06.jpg&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;/images/htpc-silverstone-gd06.jpg&#39;, &#39;&#39;]);&#34; &gt;&lt;img class=&#34;aligncenter size-large wp-image-388&#34; title=&#34;htpc-silverstone-gd06&#34; src=&#34;http://pnarula.com/images/htpc-silverstone-gd06-1024x682.jpg&#34; alt=&#34;&#34; width=&#34;450&#34; height=&#34;299&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://pnarula.com/images/htpc-silverstone-gd06.jpg&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;/images/htpc-silverstone-gd06.jpg&#39;, &#39;&#39;]);&#34; &gt;&lt;img class=&#34;aligncenter size-large wp-image-388&#34; title=&#34;htpc-silverstone-gd06&#34; src=&#34;https://pnarula.com/images/htpc-silverstone-gd06-1024x682.jpg&#34; alt=&#34;&#34; width=&#34;450&#34; height=&#34;299&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 
 &lt;p&gt;Gigabyte Z68 Motherboard&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://pnarula.com/images/htpc-mobo-gigabyte-z68.jpg&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;/images/htpc-mobo-gigabyte-z68.jpg&#39;, &#39;&#39;]);&#34; &gt;&lt;img class=&#34;aligncenter size-large wp-image-391&#34; title=&#34;htpc-mobo-gigabyte-z68&#34; src=&#34;http://pnarula.com/images/htpc-mobo-gigabyte-z68-1024x682.jpg&#34; alt=&#34;&#34; width=&#34;450&#34; height=&#34;299&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://pnarula.com/images/htpc-mobo-gigabyte-z68.jpg&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;/images/htpc-mobo-gigabyte-z68.jpg&#39;, &#39;&#39;]);&#34; &gt;&lt;img class=&#34;aligncenter size-large wp-image-391&#34; title=&#34;htpc-mobo-gigabyte-z68&#34; src=&#34;https://pnarula.com/images/htpc-mobo-gigabyte-z68-1024x682.jpg&#34; alt=&#34;&#34; width=&#34;450&#34; height=&#34;299&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Assembly in progress&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://pnarula.com/images/htpc-in-progress.jpg&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;/images/htpc-in-progress.jpg&#39;, &#39;&#39;]);&#34; &gt;&lt;img class=&#34;aligncenter size-large wp-image-390&#34; title=&#34;htpc-in-progress&#34; src=&#34;http://pnarula.com/images/htpc-in-progress-1024x682.jpg&#34; alt=&#34;&#34; width=&#34;450&#34; height=&#34;299&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://pnarula.com/images/htpc-in-progress.jpg&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;/images/htpc-in-progress.jpg&#39;, &#39;&#39;]);&#34; &gt;&lt;img class=&#34;aligncenter size-large wp-image-390&#34; title=&#34;htpc-in-progress&#34; src=&#34;https://pnarula.com/images/htpc-in-progress-1024x682.jpg&#34; alt=&#34;&#34; width=&#34;450&#34; height=&#34;299&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 
@@ -294,17 +294,17 @@
     
     <item>
       <title>Building HTPC 1 Research</title>
-      <link>http://pnarula.com/2012/building-htpc-1-research/</link>
+      <link>https://pnarula.com/2012/building-htpc-1-research/</link>
       <pubDate>Sun, 08 Apr 2012 19:44:43 +0000</pubDate>
       
-      <guid>http://pnarula.com/2012/building-htpc-1-research/</guid>
+      <guid>https://pnarula.com/2012/building-htpc-1-research/</guid>
       <description>&lt;p&gt;_(This is the first part of this HTPC build series do read the &lt;a href=&#34;http://pnarula.com/2012/htpc-2/&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://pnarula.com/2012/htpc-2/&#39;, &#39;Part 2 &amp;#8211; HTPC Build&#39;]);&#34; &gt;Part 2 &amp;#8211; HTPC Build&lt;/a&gt; and &lt;a href=&#34;http://pnarula.com/2012/htpc-3/&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://pnarula.com/2012/htpc-3/&#39;, &#39;Part 3 &amp;#8211; HTPC Final &#39;]);&#34; &gt;Part 3 &amp;#8211; HTPC Final &lt;/a&gt;)_&lt;/p&gt;
 
 &lt;p&gt;It was 2008 and I needed to replace my old faithful Sony Vega CRT TV. LCD TVs were becoming quite mainstream at that time and anything above 46 inches were more than 2000 bucks. Spending that much requires some research and I landed on avsforum&amp;#8217;s &lt;a href=&#34;http://avsforum.com/avs-vb/forumdisplay.php?f=166&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://avsforum.com/avs-vb/forumdisplay.php?f=166&#39;, &#39;LCD forum.&#39;]);&#34; &gt;LCD forum.&lt;/a&gt; I bought the TV but discovering avsforum was a discovery for gadget loving geek. I will come to that later. Watching TV on 52 inches of LCD was a revelation. Around the same time my little daughter came into the world and there was explosion of cute pictures and HD videos. To watch them on the TV I bought a media player called &lt;a href=&#34;http://www.wdc.com/en/products/homeentertainment/mediaplayers/&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://www.wdc.com/en/products/homeentertainment/mediaplayers/&#39;, &#39;WDTV &#39;]);&#34; &gt;WDTV &lt;/a&gt; which could show me all the media I had on the hard disk attached to it as well as youtube etc.&lt;/p&gt;
 
 &lt;p&gt;Since I had discovered avsforum I kept going back to it for reading various things audio video. I found out that due to their thinness LCD TV have poor speakers so one should get external speakers. For watching movies, speakers should really be in at least 5.1 config. Of course to drive these speakers you need a good audio receiver. While I am grokking the intricacies of audio systems and looking at to get a home-theater-in-a-box or separate speaker and receiver I browse to the &lt;a href=&#34;http://avsforum.com/avs-vb/forumdisplay.php?f=26&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://avsforum.com/avs-vb/forumdisplay.php?f=26&#39;, &#39;home theater PC&#39;]);&#34; &gt;home theater PC&lt;/a&gt; area of avsforum. Being a computer guy it is even more fun.  So now it is 2009 and it has been more than a year I have bought the Samsung 52&amp;#8243; LCD TV. And I am totally sucked into the AV world. Thanks to avsforum.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://pnarula.com/images/Revue.png&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;/images/Revue.png&#39;, &#39;&#39;]);&#34; &gt;&lt;img class=&#34;alignright size-medium wp-image-395&#34; title=&#34;Revue&#34; src=&#34;http://pnarula.com/images/Revue-300x156.png&#34; alt=&#34;&#34; width=&#34;300&#34; height=&#34;156&#34; /&gt;&lt;/a&gt;So far I only have the TV and a media player WDTV.  But I am also exploring if I should get speakers, audio receiver and may be a HTPC. Reasoning behind HTPC is to have the browsing capability to stream anything you want as WDTV can only stream youtube and couple of other services. While I am in the wait and see mode, there comes a deal at Fry&amp;#8217;s a local store for Onkyo home theater in a box for quite cheap. Specs look good with some decent speakers and 4 HDMI ins and I buy that on a whim. Then Google announces Google TV. A friend who works at Logitech is able to get me Revue.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://pnarula.com/images/Revue.png&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;/images/Revue.png&#39;, &#39;&#39;]);&#34; &gt;&lt;img class=&#34;alignright size-medium wp-image-395&#34; title=&#34;Revue&#34; src=&#34;https://pnarula.com/images/Revue-300x156.png&#34; alt=&#34;&#34; width=&#34;300&#34; height=&#34;156&#34; /&gt;&lt;/a&gt;So far I only have the TV and a media player WDTV.  But I am also exploring if I should get speakers, audio receiver and may be a HTPC. Reasoning behind HTPC is to have the browsing capability to stream anything you want as WDTV can only stream youtube and couple of other services. While I am in the wait and see mode, there comes a deal at Fry&amp;#8217;s a local store for Onkyo home theater in a box for quite cheap. Specs look good with some decent speakers and 4 HDMI ins and I buy that on a whim. Then Google announces Google TV. A friend who works at Logitech is able to get me Revue.&lt;/p&gt;
 
 &lt;p&gt;Google TV with Revue is good and it has the Chrome browser where I can browse, stream all I want. It integrates nicely with the Onkyo receiver I have. Netflix, Amazon VOD integration is even nicer. I really like the way search results are overlayed on live TV and the picture in picture is nice. Having used WDTV I am used to the really nice interface to browse local media i.e. pictures and videos. This is where Google TV sucks &amp;#8211; while it is great for online media browsing app for local media is not so good. I have to keep WDTV and Google TV while what I want is a single box for every thing. My desire now for HTPC grows even further. So I start doing the final research for building the HTPC and looking for all the components that would go into it. AVSForum&amp;#8217;s &lt;a href=&#34;http://avsforum.com/avs-vb/forumdisplay.php?s=&amp;daysprune=30&amp;f=26&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;http://avsforum.com/avs-vb/forumdisplay.php?s=&amp;daysprune=30&amp;f=26&#39;, &#39;HTPC forum&#39;]);&#34; &gt;HTPC forum&lt;/a&gt; is the ultimate source for it. Two threads on this forum&lt;/p&gt;
 
@@ -321,10 +321,10 @@
     
     <item>
       <title>Why I love design</title>
-      <link>http://pnarula.com/2012/why-i-love-design/</link>
+      <link>https://pnarula.com/2012/why-i-love-design/</link>
       <pubDate>Sun, 18 Mar 2012 15:40:14 +0000</pubDate>
       
-      <guid>http://pnarula.com/2012/why-i-love-design/</guid>
+      <guid>https://pnarula.com/2012/why-i-love-design/</guid>
       <description>&lt;p&gt;This post is actually about a electronic product, so what does the design has to do with it? Let me start with a bit of history. I am not sure where I got interested in design. But few months of my life where my neurons would have been lit up enough that light was coming thru my ears must be when I came to US. You see I grew up in the India of middle 80s (feeling old :)) where the design must have been stuck in the five year planning commissions. There were the Ambassdor cars, Philips radios, HMT watches and Colgate tooth paste and things would remain the same till may be mid 90s. If a product was supposed to work some way it would for a very long time. Even now if you open some of the Haldiram Namkeen products readily available in US you would see how little attention is paid to usability of the product where design matters a lot.&lt;/p&gt;
 
 &lt;p&gt;So 1st few months in US were great from that perspective. I am a very curious person so I would notice the design in everything like how the medicine bottles can only be opened in certain ways, numerous designs of opening the wooden doors meant for gardeners, how the swimming pool chairs have stops for various angle of reclines and dual sided boxee remote etc. That was then, I still notice these design things but the aha moments have sort of reduced. But every now and then something comes up and I go wow.&lt;/p&gt;
@@ -351,11 +351,11 @@
     
     <item>
       <title>Bridges of bay area</title>
-      <link>http://pnarula.com/2012/bridges-of-bay-area/</link>
+      <link>https://pnarula.com/2012/bridges-of-bay-area/</link>
       <pubDate>Fri, 24 Feb 2012 02:01:24 +0000</pubDate>
       
-      <guid>http://pnarula.com/2012/bridges-of-bay-area/</guid>
-      <description>&lt;p&gt;Whenever you are flying over an area just after the takeoff or before landing, most of the time landscape below looks like a organized jumble of &lt;a href=&#34;http://pnarula.com/images/bridges-of-bayarea.jpg&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;/images/bridges-of-bayarea.jpg&#39;, &#39;&#39;]);&#34; &gt;&lt;img class=&#34;alignright size-medium wp-image-377&#34; title=&#34;bridges-of-bayarea&#34; src=&#34;http://pnarula.com/images/bridges-of-bayarea-225x300.jpg&#34; alt=&#34;&#34; width=&#34;225&#34; height=&#34;300&#34; /&gt;&lt;/a&gt;residential and commercial buildings with criss-crossing roads and highways. Since our mind is such a great pattern matcher, occasionally you recognize a landmark or building from up above and your mind feels happy.&lt;/p&gt;
+      <guid>https://pnarula.com/2012/bridges-of-bay-area/</guid>
+      <description>&lt;p&gt;Whenever you are flying over an area just after the takeoff or before landing, most of the time landscape below looks like a organized jumble of &lt;a href=&#34;https://pnarula.com/images/bridges-of-bayarea.jpg&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;/images/bridges-of-bayarea.jpg&#39;, &#39;&#39;]);&#34; &gt;&lt;img class=&#34;alignright size-medium wp-image-377&#34; title=&#34;bridges-of-bayarea&#34; src=&#34;https://pnarula.com/images/bridges-of-bayarea-225x300.jpg&#34; alt=&#34;&#34; width=&#34;225&#34; height=&#34;300&#34; /&gt;&lt;/a&gt;residential and commercial buildings with criss-crossing roads and highways. Since our mind is such a great pattern matcher, occasionally you recognize a landmark or building from up above and your mind feels happy.&lt;/p&gt;
 
 &lt;p&gt;But this morning in my regular early morning flights to Portland, OR I was in for a treat.  Few minutes after takeoff I noticed marshlands and thought we are going over the bay area parallel to 101 side of the bay. Then I noticed the first bridge and thought that must be San Mateo 92 bridge. But then the 2nd bridge became visible and I could make out that 1st one must be Dumbartan bridge and this one is San Mateo bridge. Now it became clear that flight took the path of flying over south bay, east bay parallel to 880 north. So next I could see bay bridge and SF downdown lights and said wow. Now my eyes started looking for Golden Gate and San Rafael bridge and lo and behold you could see them both. Infact you could see San Quentin prison lights at the end of San Rafael bridge.&lt;/p&gt;
 
@@ -364,33 +364,33 @@
 &lt;p&gt;Overall it was too much fun to see and locate all the bridges of the bay area, seemed I am part of this land. Right now flying over this incredibly beautiful landscape of snow studded mountains with a lake in between. Don&amp;#8217;t know where it is.&lt;/p&gt;
 
 &lt;p style=&#34;text-align: center;&#34;&gt;
-  &lt;a href=&#34;http://pnarula.com/images/IMAG0500.jpg&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;/images/IMAG0500.jpg&#39;, &#39;&#39;]);&#34; &gt;&lt;img class=&#34;size-medium wp-image-378 aligncenter&#34; title=&#34;IMAG0500&#34; src=&#34;http://pnarula.com/images/IMAG0500-300x168.jpg&#34; alt=&#34;&#34; width=&#34;300&#34; height=&#34;168&#34; /&gt;&lt;/a&gt;
+  &lt;a href=&#34;https://pnarula.com/images/IMAG0500.jpg&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;/images/IMAG0500.jpg&#39;, &#39;&#39;]);&#34; &gt;&lt;img class=&#34;size-medium wp-image-378 aligncenter&#34; title=&#34;IMAG0500&#34; src=&#34;https://pnarula.com/images/IMAG0500-300x168.jpg&#34; alt=&#34;&#34; width=&#34;300&#34; height=&#34;168&#34; /&gt;&lt;/a&gt;
 &lt;/p&gt;
 
 &lt;p&gt;OK even the Flight Attendant pointed at the beauty of this. We are flying over Mt Shasta and Crater Lake should be coming in about 10 minutes. See the pics. . One reason these were closer was because I was flying on this plane which flies at 20000 ft rather than the normal 30000 ft.  Will post this when I reach Portland.&lt;/p&gt;
 
 &lt;p style=&#34;text-align: center;&#34;&gt;
-  &lt;a href=&#34;http://pnarula.com/images/IMAG0501.jpg&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;/images/IMAG0501.jpg&#39;, &#39;&#39;]);&#34; &gt;&lt;img class=&#34;size-medium wp-image-379 aligncenter&#34; title=&#34;IMAG0501&#34; src=&#34;http://pnarula.com/images/IMAG0501-300x168.jpg&#34; alt=&#34;&#34; width=&#34;300&#34; height=&#34;168&#34; /&gt;&lt;/a&gt;
+  &lt;a href=&#34;https://pnarula.com/images/IMAG0501.jpg&#34; onclick=&#34;_gaq.push([&#39;_trackEvent&#39;, &#39;outbound-article&#39;, &#39;/images/IMAG0501.jpg&#39;, &#39;&#39;]);&#34; &gt;&lt;img class=&#34;size-medium wp-image-379 aligncenter&#34; title=&#34;IMAG0501&#34; src=&#34;https://pnarula.com/images/IMAG0501-300x168.jpg&#34; alt=&#34;&#34; width=&#34;300&#34; height=&#34;168&#34; /&gt;&lt;/a&gt;
 &lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>I have been slowly reading Thinking fast</title>
-      <link>http://pnarula.com/2012/i-have-been-slowly-reading-thinking-fast/</link>
+      <link>https://pnarula.com/2012/i-have-been-slowly-reading-thinking-fast/</link>
       <pubDate>Mon, 30 Jan 2012 06:06:07 +0000</pubDate>
       
-      <guid>http://pnarula.com/2012/i-have-been-slowly-reading-thinking-fast/</guid>
+      <guid>https://pnarula.com/2012/i-have-been-slowly-reading-thinking-fast/</guid>
       <description>&lt;p&gt;I have been slowly reading ”Thinking fast and slow” by Daniel Kahneman. It is full of fun phrases like ” nonregressive assessment of weak evidence” still it is an important book in understanding of human biases and how we decide what we decide. I am sure toread it multiple times. One really good thing is you can pick any chapter and read it a they are independent.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>BYO or otherwise Breaking the 10000 server</title>
-      <link>http://pnarula.com/2011/byo-or-otherwise-breaking-the-10000-server/</link>
+      <link>https://pnarula.com/2011/byo-or-otherwise-breaking-the-10000-server/</link>
       <pubDate>Sun, 18 Dec 2011 02:05:36 +0000</pubDate>
       
-      <guid>http://pnarula.com/2011/byo-or-otherwise-breaking-the-10000-server/</guid>
+      <guid>https://pnarula.com/2011/byo-or-otherwise-breaking-the-10000-server/</guid>
       <description>&lt;p&gt;BYO or otherwise &amp;#8211; Breaking the 10000 server barrier via Gigaom&lt;/p&gt;
 
 &lt;p&gt;It’s in that 5 to 7.5MW area where the company starts having to know about the niceties of chillers and power systems, he said.&lt;/p&gt;
